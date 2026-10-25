@@ -1,0 +1,8 @@
+{
+  "name": "pd12682-phone-store",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  }
+}

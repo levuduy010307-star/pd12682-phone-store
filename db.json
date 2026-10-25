@@ -1,0 +1,354 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@pd12682.com",
+      "password": "admin123",
+      "role": "admin",
+      "createdAt": "2026-10-25"
+    },
+    {
+      "id": "2",
+      "name": "Khách hàng mẫu",
+      "email": "user@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "createdAt": "2026-10-25"
+    },
+    {
+      "name": "Quốc Duân",
+      "email": "quocduan123@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "createdAt": "2026-10-25T15:56:43.397Z",
+      "id": "syZdWRMUSC8"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 16 Pro Max 256GB",
+      "brand": "Apple",
+      "category": "Apple",
+      "price": 32990000,
+      "oldPrice": 34990000,
+      "stock": 11,
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "name": "iPhone 16 Pro 128GB",
+      "brand": "Apple",
+      "category": "Apple",
+      "price": 28990000,
+      "oldPrice": 30990000,
+      "stock": 9,
+      "image": "https://images.unsplash.com/photo-1592286927505-1def25115558?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "name": "iPhone 16 Plus 128GB",
+      "brand": "Apple",
+      "category": "Apple",
+      "price": 25990000,
+      "oldPrice": 27990000,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1603891128711-11b4b03bb138?auto=format&fit=crop&w=800&q=80",
+      "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
+      "featured": false
+    },
+    {
+      "id": "4",
+      "name": "iPhone 16 128GB",
+      "brand": "Apple",
+      "category": "Apple",
+      "price": 21990000,
+      "oldPrice": 23990000,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=800&q=80",
+      "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
+      "featured": true
+    },
+    {
+      "id": "5",
+      "name": "iPhone 15 Pro Max 256GB",
+      "brand": "Apple",
+      "category": "Apple",
+      "price": 29990000,
+      "oldPrice": 33990000,
+      "stock": 7,
+      "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": false
+    },
+    {
+      "id": "6",
+      "name": "Galaxy S25 Ultra 256GB",
+      "brand": "Samsung",
+      "category": "Samsung",
+      "price": 28990000,
+      "oldPrice": 31990000,
+      "stock": 8,
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": true
+    },
+    {
+      "id": "7",
+      "name": "Galaxy S25+ 256GB",
+      "brand": "Samsung",
+      "category": "Samsung",
+      "price": 23990000,
+      "oldPrice": 25990000,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": false
+    },
+    {
+      "id": "8",
+      "name": "Galaxy S25 256GB",
+      "brand": "Samsung",
+      "category": "Samsung",
+      "price": 19990000,
+      "oldPrice": 21990000,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1607936854279-55e8a4c64888?auto=format&fit=crop&w=800&q=80",
+      "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
+      "featured": true
+    },
+    {
+      "id": "9",
+      "name": "Galaxy Z Fold6 256GB",
+      "brand": "Samsung",
+      "category": "Samsung",
+      "price": 33990000,
+      "oldPrice": 36990000,
+      "stock": 4,
+      "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": false
+    },
+    {
+      "id": "10",
+      "name": "Galaxy Z Flip6 256GB",
+      "brand": "Samsung",
+      "category": "Samsung",
+      "price": 22990000,
+      "oldPrice": 24990000,
+      "stock": 6,
+      "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": false
+    },
+    {
+      "id": "11",
+      "name": "Xiaomi 15 Ultra 512GB",
+      "brand": "Xiaomi",
+      "category": "Xiaomi",
+      "price": 23990000,
+      "oldPrice": 25990000,
+      "stock": 5,
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": true
+    },
+    {
+      "id": "12",
+      "name": "Xiaomi 14T Pro 256GB",
+      "brand": "Xiaomi",
+      "category": "Xiaomi",
+      "price": 13990000,
+      "oldPrice": 15990000,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80",
+      "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
+      "featured": true
+    },
+    {
+      "id": "13",
+      "name": "Xiaomi 14T 256GB",
+      "brand": "Xiaomi",
+      "category": "Xiaomi",
+      "price": 11490000,
+      "oldPrice": 12990000,
+      "stock": 17,
+      "image": "https://images.unsplash.com/photo-1611791484670-ce19b801d192?auto=format&fit=crop&w=800&q=80",
+      "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
+      "featured": false
+    },
+    {
+      "id": "14",
+      "name": "Xiaomi 13T Pro 256GB",
+      "brand": "Xiaomi",
+      "category": "Xiaomi",
+      "price": 12990000,
+      "oldPrice": 14990000,
+      "stock": 9,
+      "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?auto=format&fit=crop&w=800&q=80",
+      "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
+      "featured": false
+    },
+    {
+      "id": "15",
+      "name": "Redmi Note 14 Pro+ 256GB",
+      "brand": "Xiaomi",
+      "category": "Xiaomi",
+      "price": 8490000,
+      "oldPrice": 9490000,
+      "stock": 19,
+      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80",
+      "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
+      "featured": false
+    },
+    {
+      "id": "16",
+      "name": "Find X8 Pro 256GB",
+      "brand": "OPPO",
+      "category": "OPPO",
+      "price": 24990000,
+      "oldPrice": 26990000,
+      "stock": 5,
+      "image": "https://images.unsplash.com/photo-1533228100845-08145b01de14?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": true
+    },
+    {
+      "id": "17",
+      "name": "Reno13 Pro 5G 256GB",
+      "brand": "OPPO",
+      "category": "OPPO",
+      "price": 16990000,
+      "oldPrice": 18990000,
+      "stock": 8,
+      "image": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80",
+      "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
+      "featured": false
+    },
+    {
+      "id": "18",
+      "name": "Reno13 5G 256GB",
+      "brand": "OPPO",
+      "category": "OPPO",
+      "price": 12490000,
+      "oldPrice": 13990000,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?auto=format&fit=crop&w=800&q=80",
+      "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
+      "featured": true
+    },
+    {
+      "id": "19",
+      "name": "Reno12 F 5G 128GB",
+      "brand": "OPPO",
+      "category": "OPPO",
+      "price": 8990000,
+      "oldPrice": 9990000,
+      "stock": 17,
+      "image": "https://images.unsplash.com/photo-1618478594486-c65b899c4936?auto=format&fit=crop&w=800&q=80",
+      "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
+      "featured": false
+    },
+    {
+      "id": "20",
+      "name": "A3 Pro 5G 128GB",
+      "brand": "OPPO",
+      "category": "OPPO",
+      "price": 6490000,
+      "oldPrice": 7290000,
+      "stock": 23,
+      "image": "https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=800&q=80",
+      "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
+      "featured": false
+    },
+    {
+      "id": "21",
+      "name": "vivo X200 Pro 256GB",
+      "brand": "vivo",
+      "category": "vivo",
+      "price": 22990000,
+      "oldPrice": 24990000,
+      "stock": 4,
+      "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": true
+    },
+    {
+      "id": "22",
+      "name": "vivo X200 256GB",
+      "brand": "vivo",
+      "category": "vivo",
+      "price": 18990000,
+      "oldPrice": 20990000,
+      "stock": 6,
+      "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80",
+      "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
+      "featured": false
+    },
+    {
+      "id": "23",
+      "name": "vivo V40 Pro 5G 256GB",
+      "brand": "vivo",
+      "category": "vivo",
+      "price": 14990000,
+      "oldPrice": 16990000,
+      "stock": 9,
+      "image": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?auto=format&fit=crop&w=800&q=80",
+      "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
+      "featured": false
+    },
+    {
+      "id": "24",
+      "name": "vivo V40 5G 256GB",
+      "brand": "vivo",
+      "category": "vivo",
+      "price": 11990000,
+      "oldPrice": 13490000,
+      "stock": 14,
+      "image": "https://images.unsplash.com/photo-1598965402089-897ce52e8355?auto=format&fit=crop&w=800&q=80",
+      "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
+      "featured": true
+    },
+    {
+      "id": "25",
+      "name": "vivo V30 Lite 128GB",
+      "brand": "vivo",
+      "category": "vivo",
+      "price": 7990000,
+      "oldPrice": 8990000,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=800&q=80",
+      "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
+      "featured": false
+    }
+  ],
+  "orders": [
+    {
+      "userId": "1",
+      "customerName": "Le Duy",
+      "phone": "0796346492",
+      "address": "Đà Nẵng Thanh Khê",
+      "note": "NHanH gọn lẹ",
+      "items": [
+        {
+          "productId": "1",
+          "name": "iPhone 16 Pro Max",
+          "price": 32990000,
+          "qty": 1,
+          "image": "https://images.unsplash.com/photo-169644-changed?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "total": 32990000,
+      "status": "Chờ xác nhận",
+      "payment": "COD",
+      "createdAt": "2026-10-25T15:59:26.425Z",
+      "id": "VuYcm1w5o0Q"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

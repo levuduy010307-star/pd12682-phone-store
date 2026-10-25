@@ -1,0 +1,19 @@
+# node
+node_modules/
+npm-debug.log*
+
+# hệ điều hành / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# file backup
+*.bak
+*.bak2
+
+# Ảnh 3D cũ (đã thay bằng link ảnh thật trong db.json) - không commit cho repo gọn.
+# Nếu sau này muốn dùng ảnh local thì bỏ 2 dòng dưới đi.
+img/*.png
+!img/fallback.png

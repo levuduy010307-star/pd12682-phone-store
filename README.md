@@ -1,4 +1,4 @@
-# PD12682 — Website bán điện thoại
+# PD12682 Phone Store
 
 Website bán điện thoại di động viết bằng HTML/CSS/JavaScript thuần, dữ liệu lưu trong `db.json`
 qua `json-server`. Bài tập môn WEB2053.

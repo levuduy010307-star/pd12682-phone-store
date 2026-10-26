@@ -23,6 +23,22 @@
       "role": "user",
       "createdAt": "2026-10-25T15:56:43.397Z",
       "id": "syZdWRMUSC8"
+    },
+    {
+      "name": "An Nhật",
+      "email": "annhat123@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "createdAt": "2026-10-26T17:34:39.050Z",
+      "id": "NxYT6JSN5Ak"
+    },
+    {
+      "name": "qqqq",
+      "email": "qqq12@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "createdAt": "2026-10-26T17:35:53.328Z",
+      "id": "yP6CYynpoBA"
     }
   ],
   "products": [

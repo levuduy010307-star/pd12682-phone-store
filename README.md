@@ -11,7 +11,8 @@ qua `json-server`. Bài tập môn WEB2053.
 
 - **Trang chủ** — banner hero, 25 sản phẩm (5 hãng × 5 mẫu), lọc theo **5 danh mục**, lọc theo hãng, sắp xếp theo giá
 - **Tìm kiếm** — theo tên sản phẩm
-- **Chi tiết sản phẩm** — ảnh, cấu hình, giá, số lượng còn
+- **Chi tiết sản phẩm** — breadcrumb, ảnh lớn có nhãn giảm giá, khối giá (giá gốc gạch + số tiền tiết kiệm),
+  chọn số lượng, nút Thêm vào giỏ / Mua ngay, bảng thông số & chính sách, 4 sản phẩm cùng danh mục
 - **Giỏ hàng** — thêm/xóa/sửa số lượng, lưu bằng `localStorage`
 - **Đặt hàng** — ghi đơn vào `db.json` (cần chạy server)
 - **Đăng nhập / Đăng ký** — kiểm tra email trùng, lưu vào `db.json` (cần chạy server)

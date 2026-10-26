@@ -52,7 +52,15 @@
       "stock": 11,
       "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "iPhone 16 Pro Max 256GB chính hãng — 32.990.000₫ | PD12682",
+        "description": "iPhone 16 Pro Max 256GB chính hãng tại PD12682 — giá 32.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "iphone 16 pro max 256gb, apple flagship, điện thoại chính hãng, mua iphone 16 pro max 256gb giá rẻ, pd12682",
+        "slug": "iphone-16-pro-max-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "2",
@@ -64,7 +72,15 @@
       "stock": 9,
       "image": "https://images.unsplash.com/photo-1592286927505-1def25115558?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "iPhone 16 Pro 128GB chính hãng — 28.990.000₫ | PD12682",
+        "description": "iPhone 16 Pro 128GB chính hãng tại PD12682 — giá 28.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "iphone 16 pro 128gb, apple flagship, điện thoại chính hãng, mua iphone 16 pro 128gb giá rẻ, pd12682",
+        "slug": "iphone-16-pro-128gb",
+        "ogImage": "https://images.unsplash.com/photo-1592286927505-1def25115558?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "3",
@@ -76,7 +92,15 @@
       "stock": 12,
       "image": "https://images.unsplash.com/photo-1603891128711-11b4b03bb138?auto=format&fit=crop&w=800&q=80",
       "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "iPhone 16 Plus 128GB chính hãng — 25.990.000₫ | PD12682",
+        "description": "iPhone 16 Plus 128GB chính hãng tại PD12682 — giá 25.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "iphone 16 plus 128gb, apple cận cao cấp, điện thoại chính hãng, mua iphone 16 plus 128gb giá rẻ, pd12682",
+        "slug": "iphone-16-plus-128gb",
+        "ogImage": "https://images.unsplash.com/photo-1603891128711-11b4b03bb138?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "4",
@@ -88,7 +112,15 @@
       "stock": 15,
       "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=800&q=80",
       "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "iPhone 16 128GB chính hãng — 21.990.000₫ | PD12682",
+        "description": "iPhone 16 128GB chính hãng tại PD12682 — giá 21.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "iphone 16 128gb, apple tầm trung, điện thoại chính hãng, mua iphone 16 128gb giá rẻ, pd12682",
+        "slug": "iphone-16-128gb",
+        "ogImage": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "5",
@@ -100,7 +132,15 @@
       "stock": 7,
       "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "iPhone 15 Pro Max 256GB chính hãng — 29.990.000₫ | PD12682",
+        "description": "iPhone 15 Pro Max 256GB chính hãng tại PD12682 — giá 29.990.000₫, giảm thêm 4.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "iphone 15 pro max 256gb, apple flagship, điện thoại chính hãng, mua iphone 15 pro max 256gb giá rẻ, pd12682",
+        "slug": "iphone-15-pro-max-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "6",
@@ -112,7 +152,15 @@
       "stock": 8,
       "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "Galaxy S25 Ultra 256GB chính hãng — 28.990.000₫ | PD12682",
+        "description": "Galaxy S25 Ultra 256GB chính hãng tại PD12682 — giá 28.990.000₫, giảm thêm 3.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "galaxy s25 ultra 256gb, samsung flagship, điện thoại chính hãng, mua galaxy s25 ultra 256gb giá rẻ, pd12682",
+        "slug": "galaxy-s25-ultra-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "7",
@@ -124,7 +172,15 @@
       "stock": 10,
       "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "Galaxy S25+ 256GB chính hãng — 23.990.000₫ | PD12682",
+        "description": "Galaxy S25+ 256GB chính hãng tại PD12682 — giá 23.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "galaxy s25+ 256gb, samsung cận cao cấp, điện thoại chính hãng, mua galaxy s25+ 256gb giá rẻ, pd12682",
+        "slug": "galaxy-s25-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "8",
@@ -136,7 +192,15 @@
       "stock": 12,
       "image": "https://images.unsplash.com/photo-1607936854279-55e8a4c64888?auto=format&fit=crop&w=800&q=80",
       "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "Galaxy S25 256GB chính hãng — 19.990.000₫ | PD12682",
+        "description": "Galaxy S25 256GB chính hãng tại PD12682 — giá 19.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "galaxy s25 256gb, samsung tầm trung, điện thoại chính hãng, mua galaxy s25 256gb giá rẻ, pd12682",
+        "slug": "galaxy-s25-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1607936854279-55e8a4c64888?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "9",
@@ -148,7 +212,15 @@
       "stock": 4,
       "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "Galaxy Z Fold6 256GB chính hãng — 33.990.000₫ | PD12682",
+        "description": "Galaxy Z Fold6 256GB chính hãng tại PD12682 — giá 33.990.000₫, giảm thêm 3.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "galaxy z fold6 256gb, samsung flagship, điện thoại chính hãng, mua galaxy z fold6 256gb giá rẻ, pd12682",
+        "slug": "galaxy-z-fold6-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "10",
@@ -160,7 +232,15 @@
       "stock": 6,
       "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "Galaxy Z Flip6 256GB chính hãng — 22.990.000₫ | PD12682",
+        "description": "Galaxy Z Flip6 256GB chính hãng tại PD12682 — giá 22.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "galaxy z flip6 256gb, samsung cận cao cấp, điện thoại chính hãng, mua galaxy z flip6 256gb giá rẻ, pd12682",
+        "slug": "galaxy-z-flip6-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "11",
@@ -172,7 +252,15 @@
       "stock": 5,
       "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "Xiaomi 15 Ultra 512GB chính hãng — 23.990.000₫ | PD12682",
+        "description": "Xiaomi 15 Ultra 512GB chính hãng tại PD12682 — giá 23.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "xiaomi 15 ultra 512gb, xiaomi flagship, điện thoại chính hãng, mua xiaomi 15 ultra 512gb giá rẻ, pd12682",
+        "slug": "xiaomi-15-ultra-512gb",
+        "ogImage": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "12",
@@ -184,7 +272,15 @@
       "stock": 15,
       "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80",
       "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "Xiaomi 14T Pro 256GB chính hãng — 13.990.000₫ | PD12682",
+        "description": "Xiaomi 14T Pro 256GB chính hãng tại PD12682 — giá 13.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "xiaomi 14t pro 256gb, xiaomi tầm trung, điện thoại chính hãng, mua xiaomi 14t pro 256gb giá rẻ, pd12682",
+        "slug": "xiaomi-14t-pro-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "13",
@@ -196,7 +292,15 @@
       "stock": 17,
       "image": "https://images.unsplash.com/photo-1611791484670-ce19b801d192?auto=format&fit=crop&w=800&q=80",
       "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "Xiaomi 14T 256GB chính hãng — 11.490.000₫ | PD12682",
+        "description": "Xiaomi 14T 256GB chính hãng tại PD12682 — giá 11.490.000₫, giảm thêm 1.500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "xiaomi 14t 256gb, xiaomi phổ thông, điện thoại chính hãng, mua xiaomi 14t 256gb giá rẻ, pd12682",
+        "slug": "xiaomi-14t-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1611791484670-ce19b801d192?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "14",
@@ -208,7 +312,15 @@
       "stock": 9,
       "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?auto=format&fit=crop&w=800&q=80",
       "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "Xiaomi 13T Pro 256GB chính hãng — 12.990.000₫ | PD12682",
+        "description": "Xiaomi 13T Pro 256GB chính hãng tại PD12682 — giá 12.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "xiaomi 13t pro 256gb, xiaomi tầm trung, điện thoại chính hãng, mua xiaomi 13t pro 256gb giá rẻ, pd12682",
+        "slug": "xiaomi-13t-pro-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "15",
@@ -220,7 +332,15 @@
       "stock": 19,
       "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80",
       "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "Redmi Note 14 Pro+ 256GB chính hãng — 8.490.000₫ | PD12682",
+        "description": "Redmi Note 14 Pro+ 256GB chính hãng tại PD12682 — giá 8.490.000₫, giảm thêm 1.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "redmi note 14 pro+ 256gb, xiaomi phổ thông, điện thoại chính hãng, mua redmi note 14 pro+ 256gb giá rẻ, pd12682",
+        "slug": "redmi-note-14-pro-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "16",
@@ -232,7 +352,15 @@
       "stock": 5,
       "image": "https://images.unsplash.com/photo-1533228100845-08145b01de14?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "Find X8 Pro 256GB chính hãng — 24.990.000₫ | PD12682",
+        "description": "Find X8 Pro 256GB chính hãng tại PD12682 — giá 24.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "find x8 pro 256gb, oppo flagship, điện thoại chính hãng, mua find x8 pro 256gb giá rẻ, pd12682",
+        "slug": "find-x8-pro-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1533228100845-08145b01de14?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "17",
@@ -244,7 +372,15 @@
       "stock": 8,
       "image": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80",
       "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "Reno13 Pro 5G 256GB chính hãng — 16.990.000₫ | PD12682",
+        "description": "Reno13 Pro 5G 256GB chính hãng tại PD12682 — giá 16.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "reno13 pro 5g 256gb, oppo cận cao cấp, điện thoại chính hãng, mua reno13 pro 5g 256gb giá rẻ, pd12682",
+        "slug": "reno13-pro-5g-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "18",
@@ -256,7 +392,15 @@
       "stock": 20,
       "image": "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?auto=format&fit=crop&w=800&q=80",
       "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "Reno13 5G 256GB chính hãng — 12.490.000₫ | PD12682",
+        "description": "Reno13 5G 256GB chính hãng tại PD12682 — giá 12.490.000₫, giảm thêm 1.500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "reno13 5g 256gb, oppo phổ thông, điện thoại chính hãng, mua reno13 5g 256gb giá rẻ, pd12682",
+        "slug": "reno13-5g-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "19",
@@ -268,7 +412,15 @@
       "stock": 17,
       "image": "https://images.unsplash.com/photo-1618478594486-c65b899c4936?auto=format&fit=crop&w=800&q=80",
       "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "Reno12 F 5G 128GB chính hãng — 8.990.000₫ | PD12682",
+        "description": "Reno12 F 5G 128GB chính hãng tại PD12682 — giá 8.990.000₫, giảm thêm 1.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "reno12 f 5g 128gb, oppo giá rẻ, điện thoại chính hãng, mua reno12 f 5g 128gb giá rẻ, pd12682",
+        "slug": "reno12-f-5g-128gb",
+        "ogImage": "https://images.unsplash.com/photo-1618478594486-c65b899c4936?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "20",
@@ -280,7 +432,15 @@
       "stock": 23,
       "image": "https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=800&q=80",
       "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "A3 Pro 5G 128GB chính hãng — 6.490.000₫ | PD12682",
+        "description": "A3 Pro 5G 128GB chính hãng tại PD12682 — giá 6.490.000₫, giảm thêm 800.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "a3 pro 5g 128gb, oppo giá rẻ, điện thoại chính hãng, mua a3 pro 5g 128gb giá rẻ, pd12682",
+        "slug": "a3-pro-5g-128gb",
+        "ogImage": "https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "21",
@@ -292,7 +452,15 @@
       "stock": 4,
       "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "vivo X200 Pro 256GB chính hãng — 22.990.000₫ | PD12682",
+        "description": "vivo X200 Pro 256GB chính hãng tại PD12682 — giá 22.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "vivo x200 pro 256gb, vivo flagship, điện thoại chính hãng, mua vivo x200 pro 256gb giá rẻ, pd12682",
+        "slug": "vivo-x200-pro-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "22",
@@ -304,7 +472,15 @@
       "stock": 6,
       "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80",
       "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "vivo X200 256GB chính hãng — 18.990.000₫ | PD12682",
+        "description": "vivo X200 256GB chính hãng tại PD12682 — giá 18.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "vivo x200 256gb, vivo cận cao cấp, điện thoại chính hãng, mua vivo x200 256gb giá rẻ, pd12682",
+        "slug": "vivo-x200-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "23",
@@ -316,7 +492,15 @@
       "stock": 9,
       "image": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?auto=format&fit=crop&w=800&q=80",
       "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "vivo V40 Pro 5G 256GB chính hãng — 14.990.000₫ | PD12682",
+        "description": "vivo V40 Pro 5G 256GB chính hãng tại PD12682 — giá 14.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "vivo v40 pro 5g 256gb, vivo tầm trung, điện thoại chính hãng, mua vivo v40 pro 5g 256gb giá rẻ, pd12682",
+        "slug": "vivo-v40-pro-5g-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "24",
@@ -328,7 +512,15 @@
       "stock": 14,
       "image": "https://images.unsplash.com/photo-1598965402089-897ce52e8355?auto=format&fit=crop&w=800&q=80",
       "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-      "featured": true
+      "featured": true,
+      "seo": {
+        "title": "vivo V40 5G 256GB chính hãng — 11.990.000₫ | PD12682",
+        "description": "vivo V40 5G 256GB chính hãng tại PD12682 — giá 11.990.000₫, giảm thêm 1.500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "vivo v40 5g 256gb, vivo phổ thông, điện thoại chính hãng, mua vivo v40 5g 256gb giá rẻ, pd12682",
+        "slug": "vivo-v40-5g-256gb",
+        "ogImage": "https://images.unsplash.com/photo-1598965402089-897ce52e8355?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "id": "25",
@@ -340,7 +532,15 @@
       "stock": 18,
       "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=800&q=80",
       "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
-      "featured": false
+      "featured": false,
+      "seo": {
+        "title": "vivo V30 Lite 128GB chính hãng — 7.990.000₫ | PD12682",
+        "description": "vivo V30 Lite 128GB chính hãng tại PD12682 — giá 7.990.000₫, giảm thêm 1.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "vivo v30 lite 128gb, vivo giá rẻ, điện thoại chính hãng, mua vivo v30 lite 128gb giá rẻ, pd12682",
+        "slug": "vivo-v30-lite-128gb",
+        "ogImage": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     },
     {
       "name": "Iphone 12",
@@ -352,7 +552,15 @@
       "image": "https://www.google.com.vn/aclk?sa=L&ai=DChsSEwjuyeOlm9iXAxWv2UwCHXjTCysYACICCAEQBRoCdG0&co=1&ase=2&gclid=CjwKCAjw9PvWBhAxEiwAddzYySLREyBHIO0CPJ_MsQhEpQGdcPw5q8UE2fJK4ZJAZGkmDM6qxj4uNxoCTxkQAvD_BwE&cid=CAAS3QHkaCD5X5qKmWuGYL1sK6a8Vn9eQ7PBH2iC4ut0jiKxmDqRmOJYq3ew1IyBHJRaOKXSBePp9YYp0xG75UajF9HaaGOOqIargrA3X7aegaFOC2VVg4wbAanPI8Fdy7Wbii0UOZkXDc71V825YsuqxQShNOpa8bUm71_1xpeqrcJ6-IxuZIjqIjbwRZ68D1a-mySSSp-qhO1-oYu3JZXKYcHOKcGhL7_3GvJDRU5q6Oee0wlgfrcrlwxS32DILCP7PfIoSzy4-i5Pluf-9lEdhqmO5kdZUH-OIGp1abO4gA&cce=2&category=acrcp_v1_32&sig=AOD64_3SNzuuHFqyQqij2rw2zx0aAfoHCg&ctype=5&q=&nis=4&ved=2ahUKEwj23d6lm9iXAxWaoq8BHaaEHkkQ5bgDKAB6BAgIEC8&adurl=",
       "description": "Ngon bor re",
       "featured": false,
-      "id": "ft_k-AkrYwQ"
+      "id": "ft_k-AkrYwQ",
+      "seo": {
+        "title": "Iphone 12 chính hãng — 8.900.000₫ | PD12682",
+        "description": "Iphone 12 chính hãng tại PD12682 — giá 8.900.000₫, giảm thêm 1.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "iphone 12, apple giá rẻ, điện thoại chính hãng, mua iphone 12 giá rẻ, pd12682",
+        "slug": "iphone-12",
+        "ogImage": "https://www.google.com.vn/aclk?sa=L&ai=DChsSEwjuyeOlm9iXAxWv2UwCHXjTCysYACICCAEQBRoCdG0&co=1&ase=2&gclid=CjwKCAjw9PvWBhAxEiwAddzYySLREyBHIO0CPJ_MsQhEpQGdcPw5q8UE2fJK4ZJAZGkmDM6qxj4uNxoCTxkQAvD_BwE&cid=CAAS3QHkaCD5X5qKmWuGYL1sK6a8Vn9eQ7PBH2iC4ut0jiKxmDqRmOJYq3ew1IyBHJRaOKXSBePp9YYp0xG75UajF9HaaGOOqIargrA3X7aegaFOC2VVg4wbAanPI8Fdy7Wbii0UOZkXDc71V825YsuqxQShNOpa8bUm71_1xpeqrcJ6-IxuZIjqIjbwRZ68D1a-mySSSp-qhO1-oYu3JZXKYcHOKcGhL7_3GvJDRU5q6Oee0wlgfrcrlwxS32DILCP7PfIoSzy4-i5Pluf-9lEdhqmO5kdZUH-OIGp1abO4gA&cce=2&category=acrcp_v1_32&sig=AOD64_3SNzuuHFqyQqij2rw2zx0aAfoHCg&ctype=5&q=&nis=4&ved=2ahUKEwj23d6lm9iXAxWaoq8BHaaEHkkQ5bgDKAB6BAgIEC8&adurl=",
+        "noindex": false
+      }
     }
   ],
   "orders": [
@@ -414,6 +622,190 @@
       "slug": "gia-re",
       "order": 5,
       "description": "Dưới 9 triệu, phù hợp học sinh – sinh viên"
+    }
+  ],
+  "seo": {
+    "siteName": "PD12682 Phone Store",
+    "titleTemplate": "%s | PD12682",
+    "homeTitle": "PD12682 — Điện thoại chính hãng, giá tốt, giao 2 giờ",
+    "description": "26 mẫu điện thoại chính hãng Apple, Samsung, Xiaomi, OPPO, vivo, realme, Nokia, Sony, Honor, Google Pixel. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+    "keywords": "điện thoại chính hãng, mua điện thoại giá rẻ, iphone chính hãng, samsung galaxy, xiaomi chính hãng, oppo, vivo, realme, pd12682, phone store",
+    "canonicalBase": "https://levuduy010307-star.github.io/pd12682-phone-store/",
+    "ogImage": "https://levuduy010307-star.github.io/pd12682-phone-store/img/og-cover.png",
+    "locale": "vi_VN",
+    "robots": "index,follow",
+    "twitterCard": "summary_large_image",
+    "googleAnalytics": "",
+    "searchConsole": "",
+    "sitemapEnabled": true,
+    "organizationName": "PD12682 Phone Store",
+    "phone": "0796346492",
+    "email": "levuduy010307@gmail.com",
+    "address": "TP. Hồ Chí Minh, Việt Nam",
+    "updatedAt": "2026-10-27T00:57:21"
+  },
+  "facebook": {
+    "pageName": "Pd12682 Shop",
+    "pageId": "61595509697092",
+    "pageUrl": "https://www.facebook.com/profile.php?id=61595509697092",
+    "messengerUsername": "",
+    "appId": "",
+    "pixelId": "",
+    "domainVerification": "",
+    "enableMessengerBubble": true,
+    "enableShareButton": true,
+    "enableCommentBox": false,
+    "enablePixel": false,
+    "shareText": "PD12682 — điện thoại chính hãng, giá tốt, bảo hành 12 tháng",
+    "updatedAt": "2026-10-27T00:57:21"
+  },
+  "posts": [
+    {
+      "id": "1",
+      "title": "Chọn điện thoại theo ngân sách: 3 nhóm dễ chọn nhất",
+      "slug": "chon-dien-thoai-theo-ngan-sach",
+      "excerpt": "Chia ngân sách thành 3 nhóm dưới 10 triệu, 10–20 triệu và trên 20 triệu để không bị rối khi chọn giữa hàng trăm mẫu máy. Kèm gợi ý máy cụ thể từng nhóm.",
+      "content": "<p>Điện thoại bây giờ có hàng trăm mẫu, cùng một số tiền có khi chọn được 20 chiếc khác nhau.\nCách nhanh nhất để không bị rối: chia ngân sách thành 3 nhóm và chỉ so máy trong cùng nhóm.\nDưới đây là cách PD12682 chia nhóm và gợi ý từng nhóm.</p>\n\n<h2>Nhóm 1 — Dưới 10 triệu: ưu tiên pin và độ bền</h2>\n<p>Ở tầm giá này đừng cố tìm camera đẹp hay chip mạnh. Thứ ảnh hưởng tới trải nghiệm hằng ngày\nlại là <strong>pin</strong> và <strong>màn hình đủ sáng</strong>. Một máy pin 5.000 mAh dùng thoải mái\nmột ngày rưỡi sẽ dễ chịu hơn nhiều so với một máy chip mạnh nhưng 4 giờ lại phải sạc.</p>\n<ul>\n<li>Ưu tiên: pin từ 5.000 mAh, sạc nhanh từ 33W, bộ nhớ 128GB trở lên.</li>\n<li>Bỏ qua: màn hình cong, camera phụ không dùng tới, chip cao cấp đời cũ.</li>\n<li>Gợi ý trong shop: Redmi Note 14 Pro+ 256GB — 8.490.000₫, camera 200MP, pin trâu.</li>\n</ul>\n\n<h2>Nhóm 2 — 10 đến 20 triệu: điểm ngọt của thị trường</h2>\n<p>Đây là vùng đáng tiền nhất. Máy ở đây thường có chip gần flagship, màn AMOLED 120Hz trở lên\nvà camera chính đủ tốt để không phải nghĩ. Nếu bạn chỉ mua một chiếc máy dùng 3 năm, hãy dồn\nngân sách vào nhóm này thay vì mua máy rẻ rồi đổi sớm.</p>\n<ul>\n<li>Ưu tiên: chip tầm cao (Dimensity 9000 series, Snapdragon 8 series đời trước), sạc từ 67W.</li>\n<li>Để ý: bản 256GB thường chỉ đắt hơn 128GB khoảng 1 triệu — nên lấy luôn.</li>\n<li>Gợi ý trong shop: Xiaomi 14T Pro 256GB — 13.990.000₫, sạc 120W, camera Leica.</li>\n</ul>\n\n<h2>Nhóm 3 — Trên 20 triệu: mua trải nghiệm, không mua thông số</h2>\n<p>Trên 20 triệu, thông số đã dư dùng. Tiền bạn trả thêm nằm ở những thứ không ghi trên hộp:\ncamera tele chụp xa, quay video chống rung tốt, máy chạy mát, và quan trọng nhất là\n<strong>giữ giá</strong> khi bán lại.</p>\n<ul>\n<li>Ưu tiên: camera tele (zoom quang 3x–5x), kháng nước IP68, bảo hành chính hãng dài.</li>\n<li>Gợi ý trong shop: iPhone 16 Pro Max 256GB — 32.990.000₫, tele 5x, chip A18 Pro.</li>\n</ul>\n\n<h2>Ba câu hỏi tự hỏi trước khi bấm mua</h2>\n<ol>\n<li><strong>Mình chụp ảnh nhiều hay chơi game nhiều?</strong> Chụp ảnh nhiều thì đừng tiếc tiền ở camera.\nChơi game nhiều thì đừng tiếc tiền ở tản nhiệt và màn hình.</li>\n<li><strong>Mình có hay quên sạc không?</strong> Nếu có, pin và sạc nhanh quan trọng hơn mọi thứ khác.</li>\n<li><strong>Mình dùng máy bao lâu?</strong> Dùng 1 năm thì mua rẻ được. Dùng 3 năm thì nên mua máy\ncó cam kết cập nhật phần mềm dài.</li>\n</ol>\n\n<p>Xem toàn bộ máy đang bán kèm giá và tồn kho thật tại\n<a href=\"https://levuduy010307-star.github.io/pd12682-phone-store/\">website PD12682</a>. Cần tư vấn theo nhu cầu cụ thể thì\n<a href=\"https://www.facebook.com/profile.php?id=61595509697092\" rel=\"noopener\">nhắn tin cho fanpage PD12682</a>, shop trả lời trong khoảng 5 phút.</p>",
+      "coverImage": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+      "author": "PD12682",
+      "publishedAt": "2026-10-20",
+      "tags": [
+        "chọn điện thoại",
+        "tư vấn mua điện thoại",
+        "điện thoại theo ngân sách"
+      ],
+      "seo": {
+        "title": "Chọn điện thoại theo ngân sách: 3 nhóm dễ chọn nhất | PD12682",
+        "description": "Chia ngân sách thành 3 nhóm dưới 10 triệu, 10–20 triệu và trên 20 triệu để không bị rối khi chọn giữa hàng trăm mẫu máy. Kèm gợi ý máy cụ thể từng nhóm.",
+        "keywords": "chọn điện thoại, tư vấn mua điện thoại, điện thoại theo ngân sách",
+        "ogImage": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+        "noindex": false
+      },
+      "category": "Tư vấn",
+      "views": 1284
+    },
+    {
+      "id": "2",
+      "title": "iPhone 16 Pro Max 256GB có đáng 33 triệu?",
+      "slug": "iphone-16-pro-max-co-dang-mua",
+      "excerpt": "Bốn điểm quyết định khi mua iPhone 16 Pro Max: camera tele 5x, màn 6,9 inch, chip A18 Pro và những ai KHÔNG nên mua máy này.",
+      "content": "<p>iPhone 16 Pro Max 256GB đang bán tại PD12682 với giá 32.990.000₫, thấp hơn giá niêm yết\n34.990.000₫ đúng 2 triệu. Câu hỏi nhiều khách hỏi nhất: máy có đáng số tiền đó không?\nBài này trả lời thẳng vào 4 điểm quyết định.</p>\n\n<h2>1. Camera tele 5x là lý do chính để chọn bản Pro Max</h2>\n<p>Bản thường không có tele. Với Pro Max, bạn có 5x zoom quang — đứng từ ban công chụp lên sân khấu,\nhay đứng ngoài sân chụp vào trong nhà, ảnh vẫn nét và không bị vỡ hạt như zoom số.\nNếu công việc của bạn có chụp sản phẩm, chụp sự kiện, hoặc bạn hay đi du lịch, đây là khác biệt\nlớn nhất so với mọi dòng máy khác.</p>\n\n<h2>2. Màn 6,9 inch — to thật, nhưng phải cầm thử</h2>\n<p>Màn lớn rất sướng khi xem phim và đọc tài liệu, nhưng cũng là điểm trừ nếu bạn hay mặc quần\nkhông có túi rộng. Khung titan giúp máy nhẹ hơn bản 15 Pro Max, cầm đỡ mỏi tay hơn.\nNếu tay nhỏ, nên ra cửa hàng cầm thử trước.</p>\n\n<h2>3. Chip A18 Pro: dư sức dùng 4–5 năm</h2>\n<p>Điểm đáng giá không phải là chạy game mượt — máy nào trên 20 triệu cũng mượt. Điểm đáng giá là\nsau 3 năm máy vẫn chạy tốt, vẫn được cập nhật phần mềm, và vẫn bán lại được giá.\nĐây là lý do nhiều người chọn iPhone thay vì máy Android cùng tầm tiền.</p>\n\n<h2>4. Ai KHÔNG nên mua máy này</h2>\n<ul>\n<li>Bạn chỉ dùng để nhắn tin, lướt mạng, chụp ảnh tự nhiên hằng ngày → máy 13–15 triệu đã đủ, tiết kiệm được gần 20 triệu.</li>\n<li>Bạn hay làm rơi máy → sửa màn hình dòng Pro Max rất đắt, nên mua thêm ốp và dán cường lực ngay.</li>\n<li>Bạn cần pin trâu 2 ngày → nên xem các máy Android pin 5.500–6.000 mAh.</li>\n</ul>\n\n<h2>Chốt</h2>\n<p>Nếu bạn quay chụp nhiều, làm video, hoặc đơn giản là muốn một chiếc máy dùng 4–5 năm không phải\nnghĩ, iPhone 16 Pro Max 256GB ở mức 32.990.000₫ là lựa chọn hợp lý. Hiện shop còn 11 máy,\nnguyên seal, bảo hành 12 tháng.</p>\n\n<p>Xem giá và tồn kho cập nhật tại\n<a href=\"https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=1\">trang sản phẩm iPhone 16 Pro Max 256GB</a>.\nMuốn giữ máy trước khi hết hàng thì\n<a href=\"https://www.facebook.com/profile.php?id=61595509697092\" rel=\"noopener\">nhắn tin cho fanpage PD12682</a> hoặc gọi 079 634 6492.</p>",
+      "coverImage": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1200&q=80",
+      "author": "PD12682",
+      "publishedAt": "2026-10-22",
+      "tags": [
+        "iPhone 16 Pro Max",
+        "đánh giá iPhone",
+        "mua iPhone chính hãng"
+      ],
+      "seo": {
+        "title": "iPhone 16 Pro Max 256GB có đáng 33 triệu? | PD12682",
+        "description": "Bốn điểm quyết định khi mua iPhone 16 Pro Max: camera tele 5x, màn 6,9 inch, chip A18 Pro và những ai KHÔNG nên mua máy này.",
+        "keywords": "iPhone 16 Pro Max, đánh giá iPhone, mua iPhone chính hãng",
+        "ogImage": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1200&q=80",
+        "noindex": false
+      },
+      "category": "Đánh giá",
+      "views": 2411
+    },
+    {
+      "id": "3",
+      "title": "7 bước kiểm tra máy khi nhận hàng, tránh mua phải máy dựng",
+      "slug": "7-buoc-kiem-tra-may-khi-nhan-hang",
+      "excerpt": "Quay video mở hộp, đối chiếu IMEI ba nơi, soi điểm chết màn hình, thử camera và pin — 7 bước mất 5 phút giúp bạn không mất tiền oan.",
+      "content": "<p>Mua điện thoại online tiện, nhưng khâu nhận hàng mới là lúc dễ mất tiền nhất.\nDưới đây là 7 bước kiểm tra PD12682 khuyến nghị khách làm ngay trước mặt nhân viên giao hàng,\ntrước khi ký biên nhận. Làm đúng 7 bước này mất khoảng 5 phút.</p>\n\n<h2>Bước 1 — Quay video lúc mở hộp</h2>\n<p>Dựng điện thoại quay lại toàn bộ quá trình bóc seal. Đây là bằng chứng duy nhất nếu sau này\nphát sinh tranh chấp về tình trạng máy. Đừng bóc seal trước rồi mới quay.</p>\n\n<h2>Bước 2 — Kiểm tra seal và tem</h2>\n<p>Seal phải liền, không có dấu bóc dán lại. Tem IMEI trên hộp phải trùng với số IMEI in trên máy\nhoặc trong phần Cài đặt. Lệch số là dừng lại ngay, không ký nhận.</p>\n\n<h2>Bước 3 — Đối chiếu IMEI ba nơi</h2>\n<ul>\n<li>Trên hộp</li>\n<li>Trên máy (Cài đặt → Giới thiệu, hoặc bấm *#06#)</li>\n<li>Trên hoá đơn / phiếu bảo hành</li>\n</ul>\n<p>Cả ba phải giống nhau từng số.</p>\n\n<h2>Bước 4 — Kiểm tra màn hình và cảm ứng</h2>\n<p>Mở một ảnh nền trắng và một ảnh nền đen để soi điểm chết, điểm sáng bất thường, và ám màu ở viền.\nSau đó mở bàn phím, gõ thử toàn bộ các phím để chắc cảm ứng không bị liệt vùng nào.</p>\n\n<h2>Bước 5 — Thử camera, loa, mic, cảm biến</h2>\n<p>Chụp thử một ảnh bằng camera trước và sau, quay một đoạn video ngắn có tiếng để kiểm tra mic.\nBật loa ngoài ở mức lớn nhất xem có rè không. Thử luôn vân tay / Face ID.</p>\n\n<h2>Bước 6 — Kiểm tra pin và sạc</h2>\n<p>Cắm sạc thử, xem máy có nhận sạc và lên phần trăm bình thường không. Với máy mới, pin phải\ntrên 90%. Nếu pin dưới 80% thì máy đã qua sử dụng, không phải máy mới.</p>\n\n<h2>Bước 7 — Đòi hoá đơn và phiếu bảo hành</h2>\n<p>Không có hoá đơn thì gần như không thể bảo hành chính hãng. Kiểm tra phiếu bảo hành có ghi đúng\nsố IMEI, đúng ngày mua và thời hạn bảo hành.</p>\n\n<h2>Nếu phát hiện lỗi thì làm gì?</h2>\n<p>Không ký nhận, không trả tiền. Gọi ngay cho shop và yêu cầu đổi máy khác.\nTheo chính sách của PD12682, khách được đổi trong 7 ngày nếu lỗi do nhà sản xuất,\nvà bảo hành 12 tháng cho mọi máy bán ra.</p>\n\n<p>Danh sách máy đang bán kèm giá và tồn kho thật:\n<a href=\"https://levuduy010307-star.github.io/pd12682-phone-store/\">website PD12682</a>.\nCần hỏi trước khi đặt, hoặc muốn nhờ kiểm tra tình trạng máy:\n<a href=\"https://www.facebook.com/profile.php?id=61595509697092\" rel=\"noopener\">nhắn tin cho fanpage PD12682</a> — shop phản hồi trong khoảng 5 phút,\nhoặc gọi trực tiếp 079 634 6492.</p>",
+      "coverImage": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=80",
+      "author": "PD12682",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "kiểm tra máy",
+        "mua điện thoại online",
+        "máy dựng"
+      ],
+      "seo": {
+        "title": "7 bước kiểm tra máy khi nhận hàng, tránh mua phải máy dựng | PD12682",
+        "description": "Quay video mở hộp, đối chiếu IMEI ba nơi, soi điểm chết màn hình, thử camera và pin — 7 bước mất 5 phút giúp bạn không mất tiền oan.",
+        "keywords": "kiểm tra máy, mua điện thoại online, máy dựng",
+        "ogImage": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=80",
+        "noindex": false
+      },
+      "category": "Bảo hành",
+      "views": 3760
+    },
+    {
+      "id": "4",
+      "title": "Galaxy S25 Ultra 256GB: có đáng nâng cấp từ S23 Ultra?",
+      "slug": "galaxy-s25-ultra-co-dang-nang-cap",
+      "category": "Đánh giá",
+      "excerpt": "Bút S Pen, camera 200MP, zoom quang 5x và 7 năm cập nhật phần mềm — nhưng nâng cấp từ S23 Ultra có thật sự đáng 29 triệu? So thẳng 5 điểm.",
+      "tags": [
+        "Galaxy S25 Ultra",
+        "đánh giá Samsung",
+        "nâng cấp điện thoại"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=1200&q=80",
+      "content": "<p>Galaxy S25 Ultra 256GB đang bán tại PD12682 với giá 28.990.000₫, thấp hơn giá niêm yết\n31.990.000₫ đúng 3 triệu. Nhiều khách đang dùng S23 Ultra hỏi: có nên lên S25 Ultra không?\nBài này so thẳng 5 điểm khác biệt, kèm kết luận cho từng trường hợp.</p>\n\n<h2>1. Thiết kế: từ vuông vức sang bo góc</h2>\n<p>S23 Ultra có cạnh vuông, cầm hơi cấn tay. S25 Ultra bo góc mềm hơn, khung titan, và nhẹ hơn\nkhoảng 15 gram. Cầm lâu đỡ mỏi, nhất là khi đọc báo hay xem phim trên giường.\nNếu bạn thích kiểu dáng vuông cứng cáp của S23 Ultra thì đây là điểm trừ, còn nếu bạn thấy\nS23 Ultra cấn tay thì đây là lý do đủ để đổi.</p>\n\n<h2>2. Camera: zoom 5x là nâng cấp rõ nhất</h2>\n<p>S25 Ultra dùng cảm biến chính 200MP, ống kính góc siêu rộng 50MP và ống tele 5x 50MP.\nSo với S23 Ultra, khác biệt dễ thấy nhất là ảnh zoom 5x–10x sạch hơn hẳn, và ảnh góc rộng\nban đêm ít nhiễu hơn. Với người chụp ảnh sản phẩm hoặc hay đi du lịch, đây là phần đáng tiền nhất.</p>\n\n<h2>3. Hiệu năng: Snapdragon 8 Elite cho Galaxy</h2>\n<p>Chip mới mạnh hơn khoảng 30–40% so với Snapdragon 8 Gen 2 trên S23 Ultra, nhưng nếu bạn chỉ\ndùng để nhắn tin, lướt mạng, chụp ảnh thì gần như không thấy khác biệt. Khác biệt chỉ rõ khi\nchơi game nặng ở mức đồ họa cao, hoặc dựng video 4K nhiều lớp.</p>\n\n<h2>4. Thời hạn cập nhật phần mềm — điểm nhiều người bỏ qua</h2>\n<p>Samsung cam kết 7 năm cập nhật Android và bản vá bảo mật cho dòng S25. S23 Ultra được 4 năm.\nNếu bạn mua máy để dùng 4–5 năm, đây là khoản chênh lệch rất đáng giá: máy vẫn được vá lỗi bảo mật\ntrong suốt thời gian bạn dùng.</p>\n\n<h2>5. Pin và sạc: gần như không đổi</h2>\n<p>Cả hai máy đều pin 5.000 mAh, sạc nhanh 45W. Đừng kỳ vọng S25 Ultra dùng lâu hơn đáng kể —\nchip tiết kiệm điện hơn nhưng màn hình cũng sáng hơn. Thực tế chênh khoảng 5–8% thời lượng,\nkhông đủ để coi là lý do nâng cấp.</p>\n\n<h2>Vậy ai nên nâng cấp?</h2>\n<ul>\n<li><strong>Nên:</strong> bạn đang dùng S21/S22 Ultra, hoặc S23 Ultra đã 2 năm và bạn muốn dùng tiếp 4 năm nữa.</li>\n<li><strong>Nên:</strong> bạn chụp ảnh zoom nhiều, cần ảnh 5x–10x nét hơn.</li>\n<li><strong>Chưa cần:</strong> bạn đang dùng S23 Ultra và chỉ dùng cơ bản — máy cũ vẫn còn tốt, chờ thêm 1 năm sẽ hợp lý hơn về tiền.</li>\n</ul>\n\n<p>Xem giá và tồn kho cập nhật tại\n<a href=\"https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=6\">trang sản phẩm Galaxy S25 Ultra 256GB</a> — hiện còn 8 máy,\nbảo hành 12 tháng. Cần so sánh trực tiếp với máy đang dùng thì\n<a href=\"https://www.facebook.com/profile.php?id=61595509697092\" rel=\"noopener\">nhắn tin cho fanpage PD12682</a> hoặc gọi 079 634 6492.</p>",
+      "author": "PD12682",
+      "publishedAt": "2026-10-24",
+      "views": 1876,
+      "productId": "6",
+      "seo": {
+        "title": "Galaxy S25 Ultra 256GB có đáng nâng cấp từ S23 Ultra? | PD12682",
+        "description": "So sánh Galaxy S25 Ultra và S23 Ultra qua 5 điểm: thiết kế, camera zoom 5x, chip Snapdragon 8 Elite, 7 năm cập nhật và pin. Giá 28.990.000₫ tại PD12682.",
+        "keywords": "galaxy s25 ultra, đánh giá galaxy s25 ultra, s25 ultra giá bao nhiêu, so sánh s25 ultra và s23 ultra",
+        "ogImage": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=1200&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "5",
+      "title": "Reno13 Pro 5G: máy chụp chân dung đáng tiền nhất tầm 17 triệu",
+      "slug": "reno13-pro-5g-may-chup-chan-dung",
+      "category": "Đánh giá",
+      "excerpt": "Ống tele riêng, pin 5.800 mAh, sạc 80W và kháng nước IP69 — 4 lý do Reno13 Pro 5G là lựa chọn số một nếu bạn chụp ảnh chân dung nhiều.",
+      "tags": [
+        "OPPO Reno13 Pro",
+        "điện thoại chụp ảnh",
+        "OPPO chính hãng"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1200&q=80",
+      "content": "<p>Reno13 Pro 5G 256GB đang có giá 16.990.000₫ tại PD12682, giảm 2 triệu so với giá niêm yết.\nTrong tầm 17 triệu, đây là chiếc máy mình khuyên khách chọn khi mục tiêu chính là\n<strong>chụp ảnh chân dung</strong>. Lý do nằm ở 4 điểm sau.</p>\n\n<h2>1. Có ống tele riêng — thứ hiếm ở tầm giá này</h2>\n<p>Phần lớn máy 17 triệu chỉ có camera chính và góc rộng. Reno13 Pro có thêm ống tele zoom quang,\nnghĩa là chụp chân dung không phải nhờ zoom số. Kết quả: ảnh xoá phông tự nhiên, mặt không bị\nbệt, tóc không bị cắt viền xấu như ảnh zoom số.</p>\n\n<h2>2. Ảnh chân dung đẹp ngay, không cần chỉnh</h2>\n<p>Thuật toán xử lý da của OPPO vẫn là điểm mạnh: da giữ được chi tiết, không bị làm mịn quá tay\nnhư nhiều máy khác. Nếu bạn chụp ảnh cho gia đình, bạn gái, hoặc bán hàng online, đây là lợi thế\nlớn vì tiết kiệm thời gian hậu kỳ.</p>\n\n<h2>3. Pin 5.800 mAh và sạc 80W</h2>\n<p>Pin lớn hơn mức trung bình của phân khúc. Dùng bình thường (mạng xã hội, chụp ảnh, xem video)\nthoải mái hơn một ngày. Sạc 80W nạp từ 0 lên khoảng 50% trong hơn 15 phút — đủ cho buổi sáng\nquên sạc.</p>\n\n<h2>4. Kháng nước IP69</h2>\n<p>Đây là chuẩn cao hơn IP68 thông thường: chịu được tia nước áp lực cao và nhiệt độ.\nThực tế với người dùng phổ thông, IP69 nghĩa là bạn yên tâm hơn khi trời mưa hoặc khi máy\nbị đổ nước.</p>\n\n<h2>Điểm cần cân nhắc</h2>\n<ul>\n<li>Chip không dành cho game thủ nặng — chơi game đồ họa cao kéo dài sẽ thấy máy ấm.</li>\n<li>Nếu bạn cần hiệu năng tối đa cho cùng số tiền, Xiaomi 14T Pro 256GB (13.990.000₫) mạnh hơn\nnhưng camera chân dung không bằng.</li>\n<li>Nếu bạn chỉ cần máy cơ bản, Reno13 5G 256GB (12.490.000₫) tiết kiệm được hơn 4 triệu.</li>\n</ul>\n\n<h2>Chốt</h2>\n<p>Mua Reno13 Pro 5G nếu ưu tiên số một của bạn là ảnh chân dung và pin trâu. Mua Xiaomi 14T Pro\nnếu ưu tiên hiệu năng. Cả hai đều đang có sẵn tại shop.</p>\n\n<p>Xem chi tiết tại <a href=\"https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=17\">trang sản phẩm Reno13 Pro 5G 256GB</a>.\nMuốn xem ảnh chụp thật từ máy thì\n<a href=\"https://www.facebook.com/profile.php?id=61595509697092\" rel=\"noopener\">nhắn tin cho fanpage PD12682</a>, shop gửi ảnh gốc cho bạn xem\ntrước khi quyết định. Hotline 079 634 6492.</p>",
+      "author": "PD12682",
+      "publishedAt": "2026-10-25",
+      "views": 1502,
+      "productId": "17",
+      "seo": {
+        "title": "Reno13 Pro 5G — máy chụp chân dung tầm 17 triệu | PD12682",
+        "description": "Reno13 Pro 5G 256GB giá 16.990.000₫: ống tele riêng, pin 5.800 mAh, sạc 80W, IP69. Đánh giá 4 điểm mạnh và ai nên mua.",
+        "keywords": "oppo reno13 pro, reno13 pro 5g giá bao nhiêu, điện thoại chụp chân dung, oppo chính hãng",
+        "ogImage": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1200&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "6",
+      "title": "vivo V40 Pro 5G có nên mua? Pin 5.500 mAh, camera ZEISS",
+      "slug": "vivo-v40-pro-5g-co-nen-mua",
+      "category": "Tư vấn",
+      "excerpt": "15 triệu nên chọn vivo V40 Pro, Xiaomi 14T Pro hay Reno13 Pro? So nhanh 3 máy cùng tầm tiền để bạn quyết trong 2 phút.",
+      "tags": [
+        "vivo V40 Pro",
+        "tư vấn mua điện thoại",
+        "so sánh điện thoại"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=1200&q=80",
+      "content": "<p>vivo V40 Pro 5G 256GB đang bán tại PD12682 với giá 14.990.000₫, giảm 2 triệu so với giá niêm yết.\nĐây là mẫu máy dễ gây phân vân nhất trong tầm 15 triệu vì nó mạnh ở đúng những chỗ ít được\nquảng cáo. Bài này phân tích để bạn quyết nhanh.</p>\n\n<h2>Điểm mạnh thật sự: pin và sạc</h2>\n<p>Pin 5.500 mAh kết hợp sạc 80W. Với người dùng bình thường, đây là combo dễ chịu nhất:\nsáng cắm sạc 20 phút là đủ dùng tới tối, và pin lớn giúp bạn không phải mang theo sạc dự phòng.\nNếu bạn hay đi công tác hoặc đi học cả ngày, đây là lý do chính để chọn máy.</p>\n\n<h2>Camera có ZEISS — khác biệt ở ảnh chân dung và ảnh ngược sáng</h2>\n<p>vivo hợp tác ZEISS cho phần ống kính và thuật toán màu. Kết quả thực tế: màu da tự nhiên hơn,\nảnh ngược sáng giữ được chi tiết vùng tối, và ảnh chân dung có độ chuyển màu mềm.\nMáy có ba camera 50MP gồm chính, tele và góc siêu rộng — không có camera phụ \"cho có\".</p>\n\n<h2>Màn hình và thiết kế</h2>\n<p>Màn AMOLED 120Hz, viền mỏng, máy mỏng nhẹ. Cầm một tay khá thoải mái so với các máy\ncùng pin lớn. Kháng nước IP68 — đủ cho mưa và nước bắn.</p>\n\n<h2>Ai nên mua vivo V40 Pro 5G?</h2>\n<ul>\n<li><strong>Nên:</strong> bạn cần pin trâu, sạc nhanh, chụp ảnh đẹp, dùng 2–3 năm.</li>\n<li><strong>Nên:</strong> bạn thích máy mỏng nhẹ nhưng pin lớn — ít máy làm được cả hai.</li>\n<li><strong>Cân nhắc:</strong> bạn chơi game nặng — nên xem Xiaomi 14T Pro (13.990.000₫) vì chip mạnh hơn.</li>\n<li><strong>Cân nhắc:</strong> bạn cần zoom xa để chụp sự kiện — nên xem Reno13 Pro 5G (16.990.000₫) có tele riêng.</li>\n</ul>\n\n<h2>So nhanh 3 máy cùng tầm tiền</h2>\n<ul>\n<li><strong>vivo V40 Pro 5G — 14.990.000₫:</strong> pin 5.500 mAh, sạc 80W, camera ZEISS. Chọn khi ưu tiên pin.</li>\n<li><strong>Xiaomi 14T Pro — 13.990.000₫:</strong> chip mạnh nhất phân khúc, sạc 120W. Chọn khi ưu tiên hiệu năng.</li>\n<li><strong>Reno13 Pro 5G — 16.990.000₫:</strong> có ống tele riêng, IP69. Chọn khi ưu tiên chân dung.</li>\n</ul>\n\n<p>Xem giá và tồn kho tại <a href=\"https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=23\">trang sản phẩm vivo V40 Pro 5G 256GB</a>\n— hiện còn 9 máy, bảo hành 12 tháng, giao 2 giờ nội thành.\nCần tư vấn thêm thì <a href=\"https://www.facebook.com/profile.php?id=61595509697092\" rel=\"noopener\">nhắn tin cho fanpage PD12682</a>\nhoặc gọi 079 634 6492.</p>",
+      "author": "PD12682",
+      "publishedAt": "2026-10-26",
+      "views": 967,
+      "productId": "23",
+      "seo": {
+        "title": "vivo V40 Pro 5G có nên mua? So sánh tầm 15 triệu | PD12682",
+        "description": "vivo V40 Pro 5G 256GB giá 14.990.000₫: pin 5.500 mAh, sạc 80W, camera ZEISS. So sánh với Xiaomi 14T Pro và Reno13 Pro cùng tầm tiền.",
+        "keywords": "vivo v40 pro, vivo v40 pro giá bao nhiêu, so sánh điện thoại 15 triệu, vivo chính hãng",
+        "ogImage": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=1200&q=80",
+        "noindex": false
+      }
     }
   ]
 }

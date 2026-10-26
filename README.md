@@ -9,8 +9,13 @@ qua `json-server`. Bài tập môn WEB2053.
 
 ## Chức năng
 
-- **Trang chủ** — banner hero, 25 sản phẩm (5 hãng × 5 mẫu), lọc theo **5 danh mục**, lọc theo hãng, sắp xếp theo giá
+- **Trang chủ** — banner hero, 26 sản phẩm, lọc theo **5 danh mục**, lọc theo hãng, sắp xếp theo giá,
+  khối "Bài viết & tư vấn" lấy 3 bài mới nhất
 - **Tìm kiếm** — theo tên sản phẩm
+- **Bài viết** (`blog.html`) — lọc theo danh mục bài viết (Tư vấn / Đánh giá / Bảo hành),
+  thẻ bài viết có ảnh bìa, ngày đăng, mô tả ngắn, nút "Đọc tiếp"
+- **Chi tiết bài viết** (`post.html?id=...`) — nội dung dài, khối sản phẩm liên quan trong bài,
+  nút chia sẻ Facebook / Zalo / copy link, 3 bài cùng chủ đề
 - **Chi tiết sản phẩm** — breadcrumb, ảnh lớn có nhãn giảm giá, khối giá (giá gốc gạch + số tiền tiết kiệm),
   chọn số lượng, nút Thêm vào giỏ / Mua ngay, bảng thông số & chính sách, 4 sản phẩm cùng danh mục
 - **Giỏ hàng** — thêm/xóa/sửa số lượng, lưu bằng `localStorage`
@@ -19,6 +24,11 @@ qua `json-server`. Bài tập môn WEB2053.
 - **Trang quản trị** (`admin.html`) — thêm tài khoản, thêm/sửa/xóa sản phẩm (cần chạy server)
 - **Liên hệ & phản hồi** — footer mọi trang có hotline, email, link fanpage; nút nổi "Nhắn page" /
   "Gọi shop" ở góc phải (tự ẩn khi cuộn tới footer để không che nội dung)
+- **SEO** — mỗi sản phẩm và mỗi bài viết có bộ thẻ SEO riêng (`seo.title`, `seo.description`,
+  `seo.keywords`, `seo.slug`, `seo.ogImage`, `seo.noindex`). `app.js` tự sinh `<title>`,
+  meta description, Open Graph, canonical và JSON-LD Organization từ `seo` + `facebook` trong `db.json`
+- **Facebook** — cấu hình Page ID, Messenger, App ID, Pixel ID, domain verification trong `db.json`
+  (bật Pixel bằng `enablePixel: true`)
 
 ## Công nghệ
 
@@ -33,8 +43,11 @@ qua `json-server`. Bài tập môn WEB2053.
 
 | Collection | Nội dung |
 |---|---|
-| `products` | 26 sản phẩm — mỗi sản phẩm có `category` trỏ tới tên danh mục |
+| `products` | 26 sản phẩm — mỗi sản phẩm có `category` trỏ tới tên danh mục và object `seo` riêng |
 | `categories` | 5 danh mục: `name`, `slug`, `order`, `description` |
+| `posts` | 6 bài viết: `title`, `slug`, `category`, `excerpt`, `content` (HTML), `publishedAt`, `seo` |
+| `seo` | Cấu hình SEO hệ thống: `siteName`, `homeTitle`, `titleTemplate`, `description`, `keywords`, `canonicalBase`, `ogImage`, `robots`, `googleAnalytics` |
+| `facebook` | Cấu hình Facebook: `pageId`, `pageUrl`, `messengerUsername`, `appId`, `pixelId`, `enablePixel`, `enableShareButton` |
 | `users` | Tài khoản khách hàng và quản trị |
 | `orders` | Đơn hàng |
 
@@ -59,6 +72,8 @@ Mở http://localhost:3000
 ```
 index.html        Trang chủ
 product.html      Chi tiết sản phẩm (?id=...)
+blog.html         Danh sách bài viết
+post.html         Chi tiết bài viết (?id=...)
 cart.html         Giỏ hàng
 checkout.html     Đặt hàng
 thankyou.html     Cảm ơn sau khi đặt
@@ -67,10 +82,16 @@ register.html     Đăng ký
 admin.html        Quản trị
 app.js            Toàn bộ logic
 style.css         Toàn bộ giao diện
-db.json           Dữ liệu gốc (products / users / orders)
-data/products.json  Bản chụp tĩnh để chạy trên GitHub Pages
+db.json           Dữ liệu gốc (products / categories / posts / seo / facebook / users / orders)
+data/*.json       Bản chụp tĩnh để chạy trên GitHub Pages
+robots.txt        Cho công cụ tìm kiếm
+sitemap.xml       Sơ đồ site (34 URL: trang chủ, blog, 6 bài viết, 26 sản phẩm)
 img/fallback.png  Ảnh thay thế khi ảnh lỗi
+BAI-DANG-FANPAGE.md    6 bài đăng fanpage
+BAI-VIET-BACKLINK.md   3 bài đăng Blogger/WordPress kèm backlink
 ```
+
+> Sau khi sửa `db.json`, chạy lại script xuất bản tĩnh để `data/*.json` khớp với bản online.
 
 ## Lỗi thường gặp
 

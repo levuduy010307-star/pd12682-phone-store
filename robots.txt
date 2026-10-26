@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://levuduy010307-star.github.io/pd12682-phone-store/sitemap.xml

@@ -9,7 +9,15 @@
     "stock": 11,
     "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "iPhone 16 Pro Max 256GB chính hãng — 32.990.000₫ | PD12682",
+      "description": "iPhone 16 Pro Max 256GB chính hãng tại PD12682 — giá 32.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "iphone 16 pro max 256gb, apple flagship, điện thoại chính hãng, mua iphone 16 pro max 256gb giá rẻ, pd12682",
+      "slug": "iphone-16-pro-max-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "2",
@@ -21,7 +29,15 @@
     "stock": 9,
     "image": "https://images.unsplash.com/photo-1592286927505-1def25115558?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "iPhone 16 Pro 128GB chính hãng — 28.990.000₫ | PD12682",
+      "description": "iPhone 16 Pro 128GB chính hãng tại PD12682 — giá 28.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "iphone 16 pro 128gb, apple flagship, điện thoại chính hãng, mua iphone 16 pro 128gb giá rẻ, pd12682",
+      "slug": "iphone-16-pro-128gb",
+      "ogImage": "https://images.unsplash.com/photo-1592286927505-1def25115558?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "3",
@@ -33,7 +49,15 @@
     "stock": 12,
     "image": "https://images.unsplash.com/photo-1603891128711-11b4b03bb138?auto=format&fit=crop&w=800&q=80",
     "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "iPhone 16 Plus 128GB chính hãng — 25.990.000₫ | PD12682",
+      "description": "iPhone 16 Plus 128GB chính hãng tại PD12682 — giá 25.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "iphone 16 plus 128gb, apple cận cao cấp, điện thoại chính hãng, mua iphone 16 plus 128gb giá rẻ, pd12682",
+      "slug": "iphone-16-plus-128gb",
+      "ogImage": "https://images.unsplash.com/photo-1603891128711-11b4b03bb138?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "4",
@@ -45,7 +69,15 @@
     "stock": 15,
     "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=800&q=80",
     "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "iPhone 16 128GB chính hãng — 21.990.000₫ | PD12682",
+      "description": "iPhone 16 128GB chính hãng tại PD12682 — giá 21.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "iphone 16 128gb, apple tầm trung, điện thoại chính hãng, mua iphone 16 128gb giá rẻ, pd12682",
+      "slug": "iphone-16-128gb",
+      "ogImage": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "5",
@@ -57,7 +89,15 @@
     "stock": 7,
     "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "iPhone 15 Pro Max 256GB chính hãng — 29.990.000₫ | PD12682",
+      "description": "iPhone 15 Pro Max 256GB chính hãng tại PD12682 — giá 29.990.000₫, giảm thêm 4.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "iphone 15 pro max 256gb, apple flagship, điện thoại chính hãng, mua iphone 15 pro max 256gb giá rẻ, pd12682",
+      "slug": "iphone-15-pro-max-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "6",
@@ -69,7 +109,15 @@
     "stock": 8,
     "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "Galaxy S25 Ultra 256GB chính hãng — 28.990.000₫ | PD12682",
+      "description": "Galaxy S25 Ultra 256GB chính hãng tại PD12682 — giá 28.990.000₫, giảm thêm 3.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "galaxy s25 ultra 256gb, samsung flagship, điện thoại chính hãng, mua galaxy s25 ultra 256gb giá rẻ, pd12682",
+      "slug": "galaxy-s25-ultra-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "7",
@@ -81,7 +129,15 @@
     "stock": 10,
     "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "Galaxy S25+ 256GB chính hãng — 23.990.000₫ | PD12682",
+      "description": "Galaxy S25+ 256GB chính hãng tại PD12682 — giá 23.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "galaxy s25+ 256gb, samsung cận cao cấp, điện thoại chính hãng, mua galaxy s25+ 256gb giá rẻ, pd12682",
+      "slug": "galaxy-s25-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "8",
@@ -93,7 +149,15 @@
     "stock": 12,
     "image": "https://images.unsplash.com/photo-1607936854279-55e8a4c64888?auto=format&fit=crop&w=800&q=80",
     "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "Galaxy S25 256GB chính hãng — 19.990.000₫ | PD12682",
+      "description": "Galaxy S25 256GB chính hãng tại PD12682 — giá 19.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "galaxy s25 256gb, samsung tầm trung, điện thoại chính hãng, mua galaxy s25 256gb giá rẻ, pd12682",
+      "slug": "galaxy-s25-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1607936854279-55e8a4c64888?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "9",
@@ -105,7 +169,15 @@
     "stock": 4,
     "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "Galaxy Z Fold6 256GB chính hãng — 33.990.000₫ | PD12682",
+      "description": "Galaxy Z Fold6 256GB chính hãng tại PD12682 — giá 33.990.000₫, giảm thêm 3.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "galaxy z fold6 256gb, samsung flagship, điện thoại chính hãng, mua galaxy z fold6 256gb giá rẻ, pd12682",
+      "slug": "galaxy-z-fold6-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "10",
@@ -117,7 +189,15 @@
     "stock": 6,
     "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "Galaxy Z Flip6 256GB chính hãng — 22.990.000₫ | PD12682",
+      "description": "Galaxy Z Flip6 256GB chính hãng tại PD12682 — giá 22.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "galaxy z flip6 256gb, samsung cận cao cấp, điện thoại chính hãng, mua galaxy z flip6 256gb giá rẻ, pd12682",
+      "slug": "galaxy-z-flip6-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "11",
@@ -129,7 +209,15 @@
     "stock": 5,
     "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "Xiaomi 15 Ultra 512GB chính hãng — 23.990.000₫ | PD12682",
+      "description": "Xiaomi 15 Ultra 512GB chính hãng tại PD12682 — giá 23.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "xiaomi 15 ultra 512gb, xiaomi flagship, điện thoại chính hãng, mua xiaomi 15 ultra 512gb giá rẻ, pd12682",
+      "slug": "xiaomi-15-ultra-512gb",
+      "ogImage": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "12",
@@ -141,7 +229,15 @@
     "stock": 15,
     "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80",
     "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "Xiaomi 14T Pro 256GB chính hãng — 13.990.000₫ | PD12682",
+      "description": "Xiaomi 14T Pro 256GB chính hãng tại PD12682 — giá 13.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "xiaomi 14t pro 256gb, xiaomi tầm trung, điện thoại chính hãng, mua xiaomi 14t pro 256gb giá rẻ, pd12682",
+      "slug": "xiaomi-14t-pro-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "13",
@@ -153,7 +249,15 @@
     "stock": 17,
     "image": "https://images.unsplash.com/photo-1611791484670-ce19b801d192?auto=format&fit=crop&w=800&q=80",
     "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "Xiaomi 14T 256GB chính hãng — 11.490.000₫ | PD12682",
+      "description": "Xiaomi 14T 256GB chính hãng tại PD12682 — giá 11.490.000₫, giảm thêm 1.500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "xiaomi 14t 256gb, xiaomi phổ thông, điện thoại chính hãng, mua xiaomi 14t 256gb giá rẻ, pd12682",
+      "slug": "xiaomi-14t-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1611791484670-ce19b801d192?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "14",
@@ -165,7 +269,15 @@
     "stock": 9,
     "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?auto=format&fit=crop&w=800&q=80",
     "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "Xiaomi 13T Pro 256GB chính hãng — 12.990.000₫ | PD12682",
+      "description": "Xiaomi 13T Pro 256GB chính hãng tại PD12682 — giá 12.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "xiaomi 13t pro 256gb, xiaomi tầm trung, điện thoại chính hãng, mua xiaomi 13t pro 256gb giá rẻ, pd12682",
+      "slug": "xiaomi-13t-pro-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "15",
@@ -177,7 +289,15 @@
     "stock": 19,
     "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80",
     "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "Redmi Note 14 Pro+ 256GB chính hãng — 8.490.000₫ | PD12682",
+      "description": "Redmi Note 14 Pro+ 256GB chính hãng tại PD12682 — giá 8.490.000₫, giảm thêm 1.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "redmi note 14 pro+ 256gb, xiaomi phổ thông, điện thoại chính hãng, mua redmi note 14 pro+ 256gb giá rẻ, pd12682",
+      "slug": "redmi-note-14-pro-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "16",
@@ -189,7 +309,15 @@
     "stock": 5,
     "image": "https://images.unsplash.com/photo-1533228100845-08145b01de14?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "Find X8 Pro 256GB chính hãng — 24.990.000₫ | PD12682",
+      "description": "Find X8 Pro 256GB chính hãng tại PD12682 — giá 24.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "find x8 pro 256gb, oppo flagship, điện thoại chính hãng, mua find x8 pro 256gb giá rẻ, pd12682",
+      "slug": "find-x8-pro-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1533228100845-08145b01de14?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "17",
@@ -201,7 +329,15 @@
     "stock": 8,
     "image": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80",
     "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "Reno13 Pro 5G 256GB chính hãng — 16.990.000₫ | PD12682",
+      "description": "Reno13 Pro 5G 256GB chính hãng tại PD12682 — giá 16.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "reno13 pro 5g 256gb, oppo cận cao cấp, điện thoại chính hãng, mua reno13 pro 5g 256gb giá rẻ, pd12682",
+      "slug": "reno13-pro-5g-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "18",
@@ -213,7 +349,15 @@
     "stock": 20,
     "image": "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?auto=format&fit=crop&w=800&q=80",
     "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "Reno13 5G 256GB chính hãng — 12.490.000₫ | PD12682",
+      "description": "Reno13 5G 256GB chính hãng tại PD12682 — giá 12.490.000₫, giảm thêm 1.500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "reno13 5g 256gb, oppo phổ thông, điện thoại chính hãng, mua reno13 5g 256gb giá rẻ, pd12682",
+      "slug": "reno13-5g-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "19",
@@ -225,7 +369,15 @@
     "stock": 17,
     "image": "https://images.unsplash.com/photo-1618478594486-c65b899c4936?auto=format&fit=crop&w=800&q=80",
     "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "Reno12 F 5G 128GB chính hãng — 8.990.000₫ | PD12682",
+      "description": "Reno12 F 5G 128GB chính hãng tại PD12682 — giá 8.990.000₫, giảm thêm 1.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "reno12 f 5g 128gb, oppo giá rẻ, điện thoại chính hãng, mua reno12 f 5g 128gb giá rẻ, pd12682",
+      "slug": "reno12-f-5g-128gb",
+      "ogImage": "https://images.unsplash.com/photo-1618478594486-c65b899c4936?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "20",
@@ -237,7 +389,15 @@
     "stock": 23,
     "image": "https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=800&q=80",
     "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "A3 Pro 5G 128GB chính hãng — 6.490.000₫ | PD12682",
+      "description": "A3 Pro 5G 128GB chính hãng tại PD12682 — giá 6.490.000₫, giảm thêm 800.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "a3 pro 5g 128gb, oppo giá rẻ, điện thoại chính hãng, mua a3 pro 5g 128gb giá rẻ, pd12682",
+      "slug": "a3-pro-5g-128gb",
+      "ogImage": "https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "21",
@@ -249,7 +409,15 @@
     "stock": 4,
     "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "vivo X200 Pro 256GB chính hãng — 22.990.000₫ | PD12682",
+      "description": "vivo X200 Pro 256GB chính hãng tại PD12682 — giá 22.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "vivo x200 pro 256gb, vivo flagship, điện thoại chính hãng, mua vivo x200 pro 256gb giá rẻ, pd12682",
+      "slug": "vivo-x200-pro-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "22",
@@ -261,7 +429,15 @@
     "stock": 6,
     "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80",
     "description": "Flagship: màn hình LTPO 120Hz, camera tele, chip cao cấp, sạc nhanh, kháng nước IP68.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "vivo X200 256GB chính hãng — 18.990.000₫ | PD12682",
+      "description": "vivo X200 256GB chính hãng tại PD12682 — giá 18.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "vivo x200 256gb, vivo cận cao cấp, điện thoại chính hãng, mua vivo x200 256gb giá rẻ, pd12682",
+      "slug": "vivo-x200-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "23",
@@ -273,7 +449,15 @@
     "stock": 9,
     "image": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?auto=format&fit=crop&w=800&q=80",
     "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "vivo V40 Pro 5G 256GB chính hãng — 14.990.000₫ | PD12682",
+      "description": "vivo V40 Pro 5G 256GB chính hãng tại PD12682 — giá 14.990.000₫, giảm thêm 2.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "vivo v40 pro 5g 256gb, vivo tầm trung, điện thoại chính hãng, mua vivo v40 pro 5g 256gb giá rẻ, pd12682",
+      "slug": "vivo-v40-pro-5g-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "24",
@@ -285,7 +469,15 @@
     "stock": 14,
     "image": "https://images.unsplash.com/photo-1598965402089-897ce52e8355?auto=format&fit=crop&w=800&q=80",
     "description": "Cận cao cấp: hiệu năng mạnh, camera đa ống kính, màn hình AMOLED 120Hz, pin lớn.",
-    "featured": true
+    "featured": true,
+    "seo": {
+      "title": "vivo V40 5G 256GB chính hãng — 11.990.000₫ | PD12682",
+      "description": "vivo V40 5G 256GB chính hãng tại PD12682 — giá 11.990.000₫, giảm thêm 1.500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "vivo v40 5g 256gb, vivo phổ thông, điện thoại chính hãng, mua vivo v40 5g 256gb giá rẻ, pd12682",
+      "slug": "vivo-v40-5g-256gb",
+      "ogImage": "https://images.unsplash.com/photo-1598965402089-897ce52e8355?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "id": "25",
@@ -297,7 +489,15 @@
     "stock": 18,
     "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=800&q=80",
     "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
-    "featured": false
+    "featured": false,
+    "seo": {
+      "title": "vivo V30 Lite 128GB chính hãng — 7.990.000₫ | PD12682",
+      "description": "vivo V30 Lite 128GB chính hãng tại PD12682 — giá 7.990.000₫, giảm thêm 1.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "vivo v30 lite 128gb, vivo giá rẻ, điện thoại chính hãng, mua vivo v30 lite 128gb giá rẻ, pd12682",
+      "slug": "vivo-v30-lite-128gb",
+      "ogImage": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=800&q=80",
+      "noindex": false
+    }
   },
   {
     "name": "Iphone 12",
@@ -309,6 +509,14 @@
     "image": "https://www.google.com.vn/aclk?sa=L&ai=DChsSEwjuyeOlm9iXAxWv2UwCHXjTCysYACICCAEQBRoCdG0&co=1&ase=2&gclid=CjwKCAjw9PvWBhAxEiwAddzYySLREyBHIO0CPJ_MsQhEpQGdcPw5q8UE2fJK4ZJAZGkmDM6qxj4uNxoCTxkQAvD_BwE&cid=CAAS3QHkaCD5X5qKmWuGYL1sK6a8Vn9eQ7PBH2iC4ut0jiKxmDqRmOJYq3ew1IyBHJRaOKXSBePp9YYp0xG75UajF9HaaGOOqIargrA3X7aegaFOC2VVg4wbAanPI8Fdy7Wbii0UOZkXDc71V825YsuqxQShNOpa8bUm71_1xpeqrcJ6-IxuZIjqIjbwRZ68D1a-mySSSp-qhO1-oYu3JZXKYcHOKcGhL7_3GvJDRU5q6Oee0wlgfrcrlwxS32DILCP7PfIoSzy4-i5Pluf-9lEdhqmO5kdZUH-OIGp1abO4gA&cce=2&category=acrcp_v1_32&sig=AOD64_3SNzuuHFqyQqij2rw2zx0aAfoHCg&ctype=5&q=&nis=4&ved=2ahUKEwj23d6lm9iXAxWaoq8BHaaEHkkQ5bgDKAB6BAgIEC8&adurl=",
     "description": "Ngon bor re",
     "featured": false,
-    "id": "ft_k-AkrYwQ"
+    "id": "ft_k-AkrYwQ",
+    "seo": {
+      "title": "Iphone 12 chính hãng — 8.900.000₫ | PD12682",
+      "description": "Iphone 12 chính hãng tại PD12682 — giá 8.900.000₫, giảm thêm 1.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+      "keywords": "iphone 12, apple giá rẻ, điện thoại chính hãng, mua iphone 12 giá rẻ, pd12682",
+      "slug": "iphone-12",
+      "ogImage": "https://www.google.com.vn/aclk?sa=L&ai=DChsSEwjuyeOlm9iXAxWv2UwCHXjTCysYACICCAEQBRoCdG0&co=1&ase=2&gclid=CjwKCAjw9PvWBhAxEiwAddzYySLREyBHIO0CPJ_MsQhEpQGdcPw5q8UE2fJK4ZJAZGkmDM6qxj4uNxoCTxkQAvD_BwE&cid=CAAS3QHkaCD5X5qKmWuGYL1sK6a8Vn9eQ7PBH2iC4ut0jiKxmDqRmOJYq3ew1IyBHJRaOKXSBePp9YYp0xG75UajF9HaaGOOqIargrA3X7aegaFOC2VVg4wbAanPI8Fdy7Wbii0UOZkXDc71V825YsuqxQShNOpa8bUm71_1xpeqrcJ6-IxuZIjqIjbwRZ68D1a-mySSSp-qhO1-oYu3JZXKYcHOKcGhL7_3GvJDRU5q6Oee0wlgfrcrlwxS32DILCP7PfIoSzy4-i5Pluf-9lEdhqmO5kdZUH-OIGp1abO4gA&cce=2&category=acrcp_v1_32&sig=AOD64_3SNzuuHFqyQqij2rw2zx0aAfoHCg&ctype=5&q=&nis=4&ved=2ahUKEwj23d6lm9iXAxWaoq8BHaaEHkkQ5bgDKAB6BAgIEC8&adurl=",
+      "noindex": false
+    }
   }
 ]

@@ -110,10 +110,14 @@ Bài 2 và 3 có thể đăng dạng album nhiều ảnh cho dễ tương tác.
 
 ---
 
-# PHẦN 2 — 3 BÀI QUẢNG CÁO SẢN PHẨM CỤ THỂ
+# PHẦN 2 — 6 BÀI QUẢNG CÁO SẢN PHẨM CỤ THỂ
 
-Ba máy chọn theo 3 phân khúc khác nhau để không đăng trùng điệp:
-**iPhone 16 Pro Max** (cao cấp) · **Xiaomi 14T Pro** (tầm trung) · **Redmi Note 14 Pro+** (phổ thông).
+Sáu bài chọn theo nhiều phân khúc để không đăng trùng điệp:
+**iPhone 16 Pro Max** (flagship) · **Galaxy S25 Ultra** (flagship) · **Reno13 Pro 5G** (cận cao cấp) ·
+**Xiaomi 14T Pro** (tầm trung) · **Redmi Note 14 Pro+** (phổ thông) · **Sony WH-1000XM5** (phụ kiện).
+
+> Yêu cầu của đề là **tối thiểu 5 bài quảng cáo sản phẩm, mỗi bài có backlink về website** —
+> 6 bài dưới đây đều có link sản phẩm riêng trỏ về web.
 
 Giá, tồn kho và link đều lấy đúng từ `db.json` hiện tại.
 
@@ -203,7 +207,89 @@ Xem chi tiết:
 
 ---
 
-## MẸO ĐĂNG 3 BÀI NÀY
+---
+
+## BÀI 7 — Galaxy S25 Ultra 256GB
+
+**Ảnh nên đăng:** ảnh sản phẩm trong shop
+`https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80`
+
+```
+🔥 GALAXY S25 ULTRA 256GB — GIẢM 3 TRIỆU, CÒN 8 MÁY
+
+Bút S Pen, camera 200MP, zoom quang 5x. Chiếc Android mạnh nhất shop đang bán.
+
+▸ Màn 6,9 inch Dynamic AMOLED 2X 120Hz
+▸ Snapdragon 8 Elite for Galaxy — nhanh nhất dòng Android hiện tại
+▸ Camera 200MP + tele 5x, chụp xa vẫn nét
+▸ Kèm bút S Pen, khung titan, kháng nước IP68
+▸ Samsung cập nhật phần mềm 7 năm
+
+💰 28.990.000₫  (giá cũ 31.990.000₫ — tiết kiệm 3.000.000₫)
+📦 Còn 8 máy · nguyên seal · bảo hành 12 tháng
+
+Xem chi tiết và chọn màu:
+👉 https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=6
+
+📞 079 634 6492 — nhắn page giữ máy trước khi hết
+#PD12682 #GalaxyS25Ultra #Samsung #dienthoaichinhhang
+```
+
+---
+
+## BÀI 8 — OPPO Reno13 Pro 5G 256GB
+
+**Ảnh nên đăng:** ảnh sản phẩm trong shop
+`https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80`
+
+```
+📸 RENO13 PRO 5G 256GB — MÁY CHỤP CHÂN DUNG ĐÁNG TIỀN NHẤT TẦM 17 TRIỆU
+
+Chụp người là mạnh nhất: có ống tele riêng, xoá phông tự nhiên, không cần chỉnh.
+
+▸ Camera tele zoom quang — chân dung nét, phông mịn thật
+▸ Pin 5.800 mAh, sạc 80W — 20 phút đủ dùng tới tối
+▸ Màn AMOLED 120Hz, máy mỏng nhẹ
+▸ Kháng nước IP69 — chuẩn cao hơn IP68
+
+💰 16.990.000₫  (giá cũ 18.990.000₫ — giảm 2.000.000₫)
+📦 Còn 8 máy · bảo hành 12 tháng · trả góp 0%
+
+Xem ảnh chụp thật từ máy và giá:
+👉 https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=17
+
+📞 079 634 6492 — nhắn page để xem ảnh gốc trước khi mua
+#PD12682 #Reno13Pro #OPPO #chupanh
+```
+
+---
+
+## BÀI 9 — Tai nghe Sony WH-1000XM5
+
+**Ảnh nên đăng:** ảnh sản phẩm trong shop
+`https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80`
+
+```
+🎧 SONY WH-1000XM5 — CHỐNG ỒN TỐT NHẤT TẦM GIÁ, GIẢM 1,5 TRIỆU
+
+Đeo lên là gần như tắt tiếng ồn xung quanh: quán cà phê, xe bus, văn phòng đông người.
+
+▸ Chống ồn chủ động ANC — bật là thế giới im lặng
+▸ Pin 30 giờ, sạc 3 phút nghe được 3 tiếng
+▸ Bluetooth 5.2, kết nối 2 thiết bị cùng lúc
+▸ Đàm thoại rõ, gập gọn bỏ balo
+
+💰 6.990.000₫  (giá cũ 8.490.000₫ — giảm 1.500.000₫)
+📦 Còn 12 chiếc · chính hãng · bảo hành 12 tháng
+
+Xem chi tiết:
+👉 https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=100
+
+📞 079 634 6492 — nhắn page nghe thử trước khi mua
+#PD12682 #Sony #WH1000XM5 #tainghechongon
+```
+
+## MẸO ĐĂNG 6 BÀI NÀY
 
 **1. Đăng kèm ảnh, đừng chỉ dán link.** Trang `product.html` chưa có thẻ Open Graph riêng cho
 từng máy (chỉ trang chủ có), nên nếu chỉ dán link thì Facebook sẽ không hiện ảnh đẹp.

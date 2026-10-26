@@ -27,6 +27,19 @@ qua `json-server`. Bài tập môn WEB2053.
 | Dữ liệu | `json-server` đọc/ghi `db.json` |
 | Ảnh | Ảnh thật từ Unsplash + ảnh dự phòng nội bộ `img/fallback.png` |
 
+## Dữ liệu (`db.json`)
+
+| Collection | Nội dung |
+|---|---|
+| `products` | 26 sản phẩm — mỗi sản phẩm có `category` trỏ tới tên danh mục |
+| `categories` | 5 danh mục: `name`, `slug`, `order`, `description` |
+| `users` | Tài khoản khách hàng và quản trị |
+| `orders` | Đơn hàng |
+
+Muốn **thêm danh mục mới**: thêm một object vào `categories` trong `db.json` (nhớ đặt `order`),
+rồi thêm cùng object đó vào `data/categories.json` để bản online cũng thấy.
+Thanh danh mục ở trang chủ và dropdown trong trang quản trị tự đọc từ đây — **không cần sửa code**.
+
 ## Chạy trên máy
 
 ```bash

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Flagship",
+    "slug": "flagship",
+    "order": 1,
+    "description": "Máy đầu bảng: camera tele, chip mạnh nhất, màn hình LTPO 120Hz"
+  },
+  {
+    "id": 2,
+    "name": "Cận cao cấp",
+    "slug": "can-cao-cap",
+    "order": 2,
+    "description": "Cấu hình cao, giá dễ chịu hơn flagship"
+  },
+  {
+    "id": 3,
+    "name": "Tầm trung",
+    "slug": "tam-trung",
+    "order": 3,
+    "description": "Cân bằng giữa hiệu năng và giá"
+  },
+  {
+    "id": 4,
+    "name": "Phổ thông",
+    "slug": "pho-thong",
+    "order": 4,
+    "description": "Đủ dùng, pin tốt, giá hợp lý"
+  },
+  {
+    "id": 5,
+    "name": "Giá rẻ",
+    "slug": "gia-re",
+    "order": 5,
+    "description": "Dưới 9 triệu, phù hợp học sinh – sinh viên"
+  }
+]

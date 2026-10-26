@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tất cả sản phẩm | PD12682</title>
+  <meta name="description" content="Điện thoại, tai nghe, loa, củ sạc, dây sạc và đồng hồ thông minh — tất cả đều chính hãng, bảo hành 12 tháng, giao 2 giờ nội thành.">
+  <link rel="canonical" href="https://levuduy010307-star.github.io/pd12682-phone-store/products.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Tất cả sản phẩm | PD12682">
+  <meta property="og:description" content="Điện thoại, tai nghe, loa, phụ kiện và đồng hồ chính hãng tại PD12682.">
+  <meta property="og:image" content="https://levuduy010307-star.github.io/pd12682-phone-store/img/og-cover.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="top">
+    <a class="logo" href="index.html">PD<span>12682</span></a>
+    <div class="search">
+      <input id="searchInput" placeholder="Tìm sản phẩm bạn cần...">
+      <button id="searchBtn">Tìm</button>
+    </div>
+    <nav>
+      <a href="index.html">Trang chủ</a>
+      <a href="products.html" class="on">Sản phẩm</a>
+      <a href="blog.html">Bài viết</a>
+      <a href="cart.html">Giỏ hàng <b id="cartCount">0</b></a>
+      <span id="userArea"></span>
+    </nav>
+  </header>
+
+  <main class="container catalog">
+    <div class="crumbs">
+      <a href="index.html">Trang chủ</a><i>/</i><b>Sản phẩm</b>
+    </div>
+
+    <div class="catalog-head">
+      <h1>Tất cả sản phẩm</h1>
+      <p>Điện thoại, tai nghe, loa, phụ kiện và đồng hồ — tất cả đều chính hãng, bảo hành 12 tháng.</p>
+    </div>
+
+    <div class="catalog-layout">
+      <button class="fp-toggle" id="filterToggle" type="button">
+        <svg viewBox="0 0 24 24"><path d="M4 6h16M7 12h10M10 18h4"/></svg>
+        Bộ lọc sản phẩm
+        <span class="fp-caret">&#8250;</span>
+      </button>
+      <aside class="filters-panel" id="filterPanel">
+        <div class="fp-head">
+          <strong>Bộ lọc</strong>
+          <button type="button" id="clearFilters">Xóa tất cả</button>
+        </div>
+        <div class="fp-block" id="fpCats"></div>
+        <div class="fp-block" id="fpBrands"></div>
+        <div class="fp-block" id="fpPrice"></div>
+      </aside>
+
+      <div class="catalog-main">
+        <div class="catalog-bar">
+          <p id="catalogCount">Tìm thấy <b>0</b> sản phẩm</p>
+          <select id="catalogSort" aria-label="Sắp xếp">
+            <option value="popular">Phổ biến nhất</option>
+            <option value="price-asc">Giá thấp đến cao</option>
+            <option value="price-desc">Giá cao đến thấp</option>
+            <option value="name">Tên A → Z</option>
+          </select>
+        </div>
+
+        <div class="grid catalog-grid" id="catalogGrid"></div>
+        <p id="catalogEmpty" class="muted hidden">Không có sản phẩm nào khớp bộ lọc.</p>
+        <div class="more-wrap"><button id="catalogMore" class="btn secondary hidden">Xem thêm sản phẩm</button></div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-foot"><div class="foot-grid"><div><p class="foot-brand">PD<span>12682</span></p><p class="foot-tag">Điện thoại chính hãng · Bảo hành 12 tháng · Giao 2 giờ nội thành</p></div><div><h4>Liên hệ</h4><p><a href="tel:0796346492">079 634 6492</a></p><p><a href="mailto:levuduy010307@gmail.com">levuduy010307@gmail.com</a></p><p><a href="https://www.facebook.com/profile.php?id=61595509697092" target="_blank" rel="noopener noreferrer">Facebook — Pd12682 Shop</a></p></div><div><h4>Phản hồi</h4><p>Có thắc mắc về sản phẩm hoặc đơn hàng? Nhắn tin cho shop qua Facebook, phản hồi trong 5 phút.</p><a class="btn small" href="https://www.facebook.com/profile.php?id=61595509697092" target="_blank" rel="noopener noreferrer">Nhắn page ngay</a></div></div><p class="foot-copy">© 2026 PD12682 Phone Store · Chọn đúng điện thoại, sống chất mỗi ngày.</p></footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

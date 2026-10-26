@@ -12,6 +12,9 @@ qua `json-server`. Bài tập môn WEB2053.
 - **Trang chủ** — banner hero, **sidebar danh mục 2 cấp** (nhóm → danh mục con) bên trái, 41 sản phẩm,
   lọc theo danh mục / nhóm / hãng, sắp xếp theo giá, nút "Xem thêm" (12 sản phẩm mỗi lượt),
   khối "Bài viết & tư vấn" lấy 3 bài mới nhất
+- **Tất cả sản phẩm** (`products.html`) — trang danh mục đầy đủ: panel **Bộ lọc** (danh mục, thương hiệu,
+  khoảng giá — chọn nhiều mục cùng lúc, có nút "Xóa tất cả"), đếm kết quả, sắp xếp
+  (phổ biến / giá / tên), thẻ sản phẩm có nhãn giảm giá, thông số, đánh giá sao và nút thêm giỏ nhanh
 - **Tìm kiếm** — theo tên sản phẩm
 - **Bài viết** (`blog.html`) — lọc theo danh mục bài viết (Tư vấn / Đánh giá / Bảo hành),
   thẻ bài viết có ảnh bìa, ngày đăng, mô tả ngắn, nút "Đọc tiếp"
@@ -81,6 +84,7 @@ Mở http://localhost:3000
 
 ```
 index.html        Trang chủ
+products.html     Tất cả sản phẩm + bộ lọc
 product.html      Chi tiết sản phẩm (?id=...)
 blog.html         Danh sách bài viết
 post.html         Chi tiết bài viết (?id=...)

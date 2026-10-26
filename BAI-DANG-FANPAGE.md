@@ -198,7 +198,7 @@ Xem chi tiết:
 👉 https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=15
 
 📞 079 634 6492 — nhắn page để được tư vấn thêm
-#PD12682 #RedmiNote14Pro #dienthoaigia re #sinhvien
+#PD12682 #RedmiNote14Pro #dienthoaigiare #sinhvien
 ```
 
 ---

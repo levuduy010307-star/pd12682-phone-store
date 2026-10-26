@@ -17,3 +17,4 @@ desktop.ini
 # Nếu sau này muốn dùng ảnh local thì bỏ 2 dòng dưới đi.
 img/*.png
 !img/fallback.png
+!img/og-cover.png

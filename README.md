@@ -9,7 +9,8 @@ qua `json-server`. Bài tập môn WEB2053.
 
 ## Chức năng
 
-- **Trang chủ** — banner hero, 26 sản phẩm, lọc theo **5 danh mục**, lọc theo hãng, sắp xếp theo giá,
+- **Trang chủ** — banner hero, **sidebar danh mục 2 cấp** (nhóm → danh mục con) bên trái, 41 sản phẩm,
+  lọc theo danh mục / nhóm / hãng, sắp xếp theo giá, nút "Xem thêm" (12 sản phẩm mỗi lượt),
   khối "Bài viết & tư vấn" lấy 3 bài mới nhất
 - **Tìm kiếm** — theo tên sản phẩm
 - **Bài viết** (`blog.html`) — lọc theo danh mục bài viết (Tư vấn / Đánh giá / Bảo hành),
@@ -43,17 +44,26 @@ qua `json-server`. Bài tập môn WEB2053.
 
 | Collection | Nội dung |
 |---|---|
-| `products` | 26 sản phẩm — mỗi sản phẩm có `category` trỏ tới tên danh mục và object `seo` riêng |
-| `categories` | 5 danh mục: `name`, `slug`, `order`, `description` |
+| `products` | 41 sản phẩm — mỗi sản phẩm có `category` trỏ tới tên danh mục và object `seo` riêng |
+| `categories` | 10 danh mục, 2 cấp: `group` (nhóm cha) + `name` (danh mục con), `slug`, `order`, `groupOrder` |
 | `posts` | 6 bài viết: `title`, `slug`, `category`, `excerpt`, `content` (HTML), `publishedAt`, `seo` |
 | `seo` | Cấu hình SEO hệ thống: `siteName`, `homeTitle`, `titleTemplate`, `description`, `keywords`, `canonicalBase`, `ogImage`, `robots`, `googleAnalytics` |
 | `facebook` | Cấu hình Facebook: `pageId`, `pageUrl`, `messengerUsername`, `appId`, `pixelId`, `enablePixel`, `enableShareButton` |
 | `users` | Tài khoản khách hàng và quản trị |
 | `orders` | Đơn hàng |
 
-Muốn **thêm danh mục mới**: thêm một object vào `categories` trong `db.json` (nhớ đặt `order`),
-rồi thêm cùng object đó vào `data/categories.json` để bản online cũng thấy.
-Thanh danh mục ở trang chủ và dropdown trong trang quản trị tự đọc từ đây — **không cần sửa code**.
+Muốn **thêm danh mục mới**: thêm một object vào `categories` trong `db.json`, đặt `group` (nhóm cha)
+và `groupOrder` để xếp đúng vị trí, rồi thêm cùng object đó vào `data/categories.json` để bản online
+cũng thấy. Sidebar ở trang chủ và dropdown trong trang quản trị tự đọc từ đây — **không cần sửa code**.
+
+Cây danh mục hiện tại:
+
+| Nhóm | Danh mục con |
+|---|---|
+| Điện thoại | Flagship · Cận cao cấp · Tầm trung · Phổ thông · Giá rẻ |
+| Âm thanh | Tai nghe · Loa |
+| Phụ kiện | Củ sạc · Dây sạc |
+| Đồng hồ | Đồng hồ thông minh |
 
 ## Chạy trên máy
 

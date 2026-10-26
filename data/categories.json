@@ -3,6 +3,9 @@
     "id": 1,
     "name": "Flagship",
     "slug": "flagship",
+    "group": "Điện thoại",
+    "groupSlug": "dien-thoai",
+    "groupOrder": 1,
     "order": 1,
     "description": "Máy đầu bảng: camera tele, chip mạnh nhất, màn hình LTPO 120Hz"
   },
@@ -10,6 +13,9 @@
     "id": 2,
     "name": "Cận cao cấp",
     "slug": "can-cao-cap",
+    "group": "Điện thoại",
+    "groupSlug": "dien-thoai",
+    "groupOrder": 1,
     "order": 2,
     "description": "Cấu hình cao, giá dễ chịu hơn flagship"
   },
@@ -17,6 +23,9 @@
     "id": 3,
     "name": "Tầm trung",
     "slug": "tam-trung",
+    "group": "Điện thoại",
+    "groupSlug": "dien-thoai",
+    "groupOrder": 1,
     "order": 3,
     "description": "Cân bằng giữa hiệu năng và giá"
   },
@@ -24,14 +33,70 @@
     "id": 4,
     "name": "Phổ thông",
     "slug": "pho-thong",
+    "group": "Điện thoại",
+    "groupSlug": "dien-thoai",
+    "groupOrder": 1,
     "order": 4,
-    "description": "Đủ dùng, pin tốt, giá hợp lý"
+    "description": "Đủ dùng hằng ngày, pin tốt, giá mềm"
   },
   {
     "id": 5,
     "name": "Giá rẻ",
     "slug": "gia-re",
+    "group": "Điện thoại",
+    "groupSlug": "dien-thoai",
+    "groupOrder": 1,
     "order": 5,
-    "description": "Dưới 9 triệu, phù hợp học sinh – sinh viên"
+    "description": "Máy cơ bản cho học sinh, sinh viên, máy phụ"
+  },
+  {
+    "id": 6,
+    "name": "Tai nghe",
+    "slug": "tai-nghe",
+    "group": "Âm thanh",
+    "groupSlug": "am-thanh",
+    "groupOrder": 2,
+    "order": 1,
+    "description": "Tai nghe chụp tai, true wireless, có chống ồn"
+  },
+  {
+    "id": 7,
+    "name": "Loa",
+    "slug": "loa",
+    "group": "Âm thanh",
+    "groupSlug": "am-thanh",
+    "groupOrder": 2,
+    "order": 2,
+    "description": "Loa bluetooth di động, chống nước"
+  },
+  {
+    "id": 8,
+    "name": "Củ sạc",
+    "slug": "cu-sac",
+    "group": "Phụ kiện",
+    "groupSlug": "phu-kien",
+    "groupOrder": 3,
+    "order": 1,
+    "description": "Củ sạc nhanh, sạc không dây chính hãng"
+  },
+  {
+    "id": 9,
+    "name": "Dây sạc",
+    "slug": "day-sac",
+    "group": "Phụ kiện",
+    "groupSlug": "phu-kien",
+    "groupOrder": 3,
+    "order": 2,
+    "description": "Cáp USB-C, Lightning, sạc nhanh công suất cao"
+  },
+  {
+    "id": 10,
+    "name": "Đồng hồ thông minh",
+    "slug": "dong-ho-thong-minh",
+    "group": "Đồng hồ",
+    "groupSlug": "dong-ho",
+    "groupOrder": 4,
+    "order": 1,
+    "description": "Smartwatch theo dõi sức khỏe, thông báo"
   }
 ]

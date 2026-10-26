@@ -561,6 +561,306 @@
         "ogImage": "https://www.google.com.vn/aclk?sa=L&ai=DChsSEwjuyeOlm9iXAxWv2UwCHXjTCysYACICCAEQBRoCdG0&co=1&ase=2&gclid=CjwKCAjw9PvWBhAxEiwAddzYySLREyBHIO0CPJ_MsQhEpQGdcPw5q8UE2fJK4ZJAZGkmDM6qxj4uNxoCTxkQAvD_BwE&cid=CAAS3QHkaCD5X5qKmWuGYL1sK6a8Vn9eQ7PBH2iC4ut0jiKxmDqRmOJYq3ew1IyBHJRaOKXSBePp9YYp0xG75UajF9HaaGOOqIargrA3X7aegaFOC2VVg4wbAanPI8Fdy7Wbii0UOZkXDc71V825YsuqxQShNOpa8bUm71_1xpeqrcJ6-IxuZIjqIjbwRZ68D1a-mySSSp-qhO1-oYu3JZXKYcHOKcGhL7_3GvJDRU5q6Oee0wlgfrcrlwxS32DILCP7PfIoSzy4-i5Pluf-9lEdhqmO5kdZUH-OIGp1abO4gA&cce=2&category=acrcp_v1_32&sig=AOD64_3SNzuuHFqyQqij2rw2zx0aAfoHCg&ctype=5&q=&nis=4&ved=2ahUKEwj23d6lm9iXAxWaoq8BHaaEHkkQ5bgDKAB6BAgIEC8&adurl=",
         "noindex": false
       }
+    },
+    {
+      "id": "100",
+      "name": "Tai nghe Bluetooth Sony WH-1000XM5",
+      "brand": "Sony",
+      "category": "Tai nghe",
+      "price": 6990000,
+      "oldPrice": 8490000,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "description": "Tai nghe Bluetooth Sony WH-1000XM5 chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": true,
+      "seo": {
+        "title": "Tai nghe Bluetooth Sony WH-1000XM5 chính hãng — 6.990.000₫ | PD12682",
+        "description": "Tai nghe Bluetooth Sony WH-1000XM5 chính hãng tại PD12682 — giá 6.990.000₫, giảm thêm 1.500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "tai nghe bluetooth sony wh-1000xm5, sony, tai nghe, phụ kiện chính hãng, pd12682",
+        "slug": "tai-nghe-bluetooth-sony-wh-1000xm5",
+        "ogImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "101",
+      "name": "Tai nghe True Wireless Apple AirPods Pro 2",
+      "brand": "Apple",
+      "category": "Tai nghe",
+      "price": 5490000,
+      "oldPrice": 6190000,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+      "description": "Tai nghe True Wireless Apple AirPods Pro 2 chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": true,
+      "seo": {
+        "title": "Tai nghe True Wireless Apple AirPods Pro 2 chính hãng — 5.490.000₫ | PD12682",
+        "description": "Tai nghe True Wireless Apple AirPods Pro 2 chính hãng tại PD12682 — giá 5.490.000₫, giảm thêm 700.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "tai nghe true wireless apple airpods pro 2, apple, tai nghe, phụ kiện chính hãng, pd12682",
+        "slug": "tai-nghe-true-wireless-apple-airpods-pro-2",
+        "ogImage": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "102",
+      "name": "Tai nghe True Wireless Samsung Galaxy Buds3 Pro",
+      "brand": "Samsung",
+      "category": "Tai nghe",
+      "price": 4290000,
+      "oldPrice": 4990000,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=800&q=80",
+      "description": "Tai nghe True Wireless Samsung Galaxy Buds3 Pro chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Tai nghe True Wireless Samsung Galaxy Buds3 Pro chính hãng — 4.290.000₫ | PD12682",
+        "description": "Tai nghe True Wireless Samsung Galaxy Buds3 Pro chính hãng tại PD12682 — giá 4.290.000₫, giảm thêm 700.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "tai nghe true wireless samsung galaxy buds3 pro, samsung, tai nghe, phụ kiện chính hãng, pd12682",
+        "slug": "tai-nghe-true-wireless-samsung-galaxy-buds3-pro",
+        "ogImage": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "103",
+      "name": "Tai nghe chụp tai JBL Tune 770NC",
+      "brand": "JBL",
+      "category": "Tai nghe",
+      "price": 2190000,
+      "oldPrice": 2690000,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80",
+      "description": "Tai nghe chụp tai JBL Tune 770NC chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Tai nghe chụp tai JBL Tune 770NC chính hãng — 2.190.000₫ | PD12682",
+        "description": "Tai nghe chụp tai JBL Tune 770NC chính hãng tại PD12682 — giá 2.190.000₫, giảm thêm 500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "tai nghe chụp tai jbl tune 770nc, jbl, tai nghe, phụ kiện chính hãng, pd12682",
+        "slug": "tai-nghe-chup-tai-jbl-tune-770nc",
+        "ogImage": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "104",
+      "name": "Tai nghe True Wireless Xiaomi Redmi Buds 6 Pro",
+      "brand": "Xiaomi",
+      "category": "Tai nghe",
+      "price": 1290000,
+      "oldPrice": 1590000,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?auto=format&fit=crop&w=800&q=80",
+      "description": "Tai nghe True Wireless Xiaomi Redmi Buds 6 Pro chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Tai nghe True Wireless Xiaomi Redmi Buds 6 Pro chính hãng — 1.290.000₫ | PD12682",
+        "description": "Tai nghe True Wireless Xiaomi Redmi Buds 6 Pro chính hãng tại PD12682 — giá 1.290.000₫, giảm thêm 300.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "tai nghe true wireless xiaomi redmi buds 6 pro, xiaomi, tai nghe, phụ kiện chính hãng, pd12682",
+        "slug": "tai-nghe-true-wireless-xiaomi-redmi-buds-6-pro",
+        "ogImage": "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "105",
+      "name": "Loa Bluetooth JBL Charge 6",
+      "brand": "JBL",
+      "category": "Loa",
+      "price": 3490000,
+      "oldPrice": 3990000,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+      "description": "Loa Bluetooth JBL Charge 6 chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": true,
+      "seo": {
+        "title": "Loa Bluetooth JBL Charge 6 chính hãng — 3.490.000₫ | PD12682",
+        "description": "Loa Bluetooth JBL Charge 6 chính hãng tại PD12682 — giá 3.490.000₫, giảm thêm 500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "loa bluetooth jbl charge 6, jbl, loa, phụ kiện chính hãng, pd12682",
+        "slug": "loa-bluetooth-jbl-charge-6",
+        "ogImage": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "106",
+      "name": "Loa Bluetooth Marshall Emberton III",
+      "brand": "Marshall",
+      "category": "Loa",
+      "price": 4290000,
+      "oldPrice": 4790000,
+      "stock": 6,
+      "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80",
+      "description": "Loa Bluetooth Marshall Emberton III chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Loa Bluetooth Marshall Emberton III chính hãng — 4.290.000₫ | PD12682",
+        "description": "Loa Bluetooth Marshall Emberton III chính hãng tại PD12682 — giá 4.290.000₫, giảm thêm 500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "loa bluetooth marshall emberton iii, marshall, loa, phụ kiện chính hãng, pd12682",
+        "slug": "loa-bluetooth-marshall-emberton-iii",
+        "ogImage": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "107",
+      "name": "Củ sạc nhanh Apple 20W USB-C",
+      "brand": "Apple",
+      "category": "Củ sạc",
+      "price": 490000,
+      "oldPrice": 590000,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1615526675159-e248c3021d3f?auto=format&fit=crop&w=800&q=80",
+      "description": "Củ sạc nhanh Apple 20W USB-C chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Củ sạc nhanh Apple 20W USB-C chính hãng — 490.000₫ | PD12682",
+        "description": "Củ sạc nhanh Apple 20W USB-C chính hãng tại PD12682 — giá 490.000₫, giảm thêm 100.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "củ sạc nhanh apple 20w usb-c, apple, củ sạc, phụ kiện chính hãng, pd12682",
+        "slug": "cu-sac-nhanh-apple-20w-usb-c",
+        "ogImage": "https://images.unsplash.com/photo-1615526675159-e248c3021d3f?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "108",
+      "name": "Củ sạc nhanh Samsung 45W USB-C",
+      "brand": "Samsung",
+      "category": "Củ sạc",
+      "price": 690000,
+      "oldPrice": 790000,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=800&q=80",
+      "description": "Củ sạc nhanh Samsung 45W USB-C chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Củ sạc nhanh Samsung 45W USB-C chính hãng — 690.000₫ | PD12682",
+        "description": "Củ sạc nhanh Samsung 45W USB-C chính hãng tại PD12682 — giá 690.000₫, giảm thêm 100.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "củ sạc nhanh samsung 45w usb-c, samsung, củ sạc, phụ kiện chính hãng, pd12682",
+        "slug": "cu-sac-nhanh-samsung-45w-usb-c",
+        "ogImage": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "109",
+      "name": "Sạc không dây Apple MagSafe 25W",
+      "brand": "Apple",
+      "category": "Củ sạc",
+      "price": 1190000,
+      "oldPrice": 1390000,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1591290619618-904f6dd935e3?auto=format&fit=crop&w=800&q=80",
+      "description": "Sạc không dây Apple MagSafe 25W chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Sạc không dây Apple MagSafe 25W chính hãng — 1.190.000₫ | PD12682",
+        "description": "Sạc không dây Apple MagSafe 25W chính hãng tại PD12682 — giá 1.190.000₫, giảm thêm 200.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "sạc không dây apple magsafe 25w, apple, củ sạc, phụ kiện chính hãng, pd12682",
+        "slug": "sac-khong-day-apple-magsafe-25w",
+        "ogImage": "https://images.unsplash.com/photo-1591290619618-904f6dd935e3?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "110",
+      "name": "Dây sạc USB-C to USB-C Anker 240W 1m",
+      "brand": "Anker",
+      "category": "Dây sạc",
+      "price": 290000,
+      "oldPrice": 350000,
+      "stock": 60,
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=800&q=80",
+      "description": "Dây sạc USB-C to USB-C Anker 240W 1m chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Dây sạc USB-C to USB-C Anker 240W 1m chính hãng — 290.000₫ | PD12682",
+        "description": "Dây sạc USB-C to USB-C Anker 240W 1m chính hãng tại PD12682 — giá 290.000₫, giảm thêm 60.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "dây sạc usb-c to usb-c anker 240w 1m, anker, dây sạc, phụ kiện chính hãng, pd12682",
+        "slug": "day-sac-usb-c-to-usb-c-anker-240w-1m",
+        "ogImage": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "111",
+      "name": "Dây sạc USB-C to Lightning Baseus 1.2m",
+      "brand": "Baseus",
+      "category": "Dây sạc",
+      "price": 190000,
+      "oldPrice": 250000,
+      "stock": 55,
+      "image": "https://images.unsplash.com/photo-1615526675159-e248c3021d3f?auto=format&fit=crop&w=800&q=80",
+      "description": "Dây sạc USB-C to Lightning Baseus 1.2m chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Dây sạc USB-C to Lightning Baseus 1.2m chính hãng — 190.000₫ | PD12682",
+        "description": "Dây sạc USB-C to Lightning Baseus 1.2m chính hãng tại PD12682 — giá 190.000₫, giảm thêm 60.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "dây sạc usb-c to lightning baseus 1.2m, baseus, dây sạc, phụ kiện chính hãng, pd12682",
+        "slug": "day-sac-usb-c-to-lightning-baseus-1-2m",
+        "ogImage": "https://images.unsplash.com/photo-1615526675159-e248c3021d3f?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "112",
+      "name": "Apple Watch Series 10 42mm GPS",
+      "brand": "Apple",
+      "category": "Đồng hồ thông minh",
+      "price": 9990000,
+      "oldPrice": 10990000,
+      "stock": 7,
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80",
+      "description": "Apple Watch Series 10 42mm GPS chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": true,
+      "seo": {
+        "title": "Apple Watch Series 10 42mm GPS chính hãng — 9.990.000₫ | PD12682",
+        "description": "Apple Watch Series 10 42mm GPS chính hãng tại PD12682 — giá 9.990.000₫, giảm thêm 1.000.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "apple watch series 10 42mm gps, apple, đồng hồ thông minh, phụ kiện chính hãng, pd12682",
+        "slug": "apple-watch-series-10-42mm-gps",
+        "ogImage": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "113",
+      "name": "Samsung Galaxy Watch7 40mm",
+      "brand": "Samsung",
+      "category": "Đồng hồ thông minh",
+      "price": 5990000,
+      "oldPrice": 6490000,
+      "stock": 9,
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
+      "description": "Samsung Galaxy Watch7 40mm chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Samsung Galaxy Watch7 40mm chính hãng — 5.990.000₫ | PD12682",
+        "description": "Samsung Galaxy Watch7 40mm chính hãng tại PD12682 — giá 5.990.000₫, giảm thêm 500.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "samsung galaxy watch7 40mm, samsung, đồng hồ thông minh, phụ kiện chính hãng, pd12682",
+        "slug": "samsung-galaxy-watch7-40mm",
+        "ogImage": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
+    },
+    {
+      "id": "114",
+      "name": "Xiaomi Smart Band 9",
+      "brand": "Xiaomi",
+      "category": "Đồng hồ thông minh",
+      "price": 890000,
+      "oldPrice": 990000,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=800&q=80",
+      "description": "Xiaomi Smart Band 9 chính hãng, bảo hành 12 tháng. Hàng có sẵn tại shop, giao 2 giờ nội thành.",
+      "featured": false,
+      "seo": {
+        "title": "Xiaomi Smart Band 9 chính hãng — 890.000₫ | PD12682",
+        "description": "Xiaomi Smart Band 9 chính hãng tại PD12682 — giá 890.000₫, giảm thêm 100.000₫ so với giá niêm yết. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+        "keywords": "xiaomi smart band 9, xiaomi, đồng hồ thông minh, phụ kiện chính hãng, pd12682",
+        "slug": "xiaomi-smart-band-9",
+        "ogImage": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=800&q=80",
+        "noindex": false
+      }
     }
   ],
   "orders": [
@@ -592,6 +892,9 @@
       "id": 1,
       "name": "Flagship",
       "slug": "flagship",
+      "group": "Điện thoại",
+      "groupSlug": "dien-thoai",
+      "groupOrder": 1,
       "order": 1,
       "description": "Máy đầu bảng: camera tele, chip mạnh nhất, màn hình LTPO 120Hz"
     },
@@ -599,6 +902,9 @@
       "id": 2,
       "name": "Cận cao cấp",
       "slug": "can-cao-cap",
+      "group": "Điện thoại",
+      "groupSlug": "dien-thoai",
+      "groupOrder": 1,
       "order": 2,
       "description": "Cấu hình cao, giá dễ chịu hơn flagship"
     },
@@ -606,6 +912,9 @@
       "id": 3,
       "name": "Tầm trung",
       "slug": "tam-trung",
+      "group": "Điện thoại",
+      "groupSlug": "dien-thoai",
+      "groupOrder": 1,
       "order": 3,
       "description": "Cân bằng giữa hiệu năng và giá"
     },
@@ -613,23 +922,79 @@
       "id": 4,
       "name": "Phổ thông",
       "slug": "pho-thong",
+      "group": "Điện thoại",
+      "groupSlug": "dien-thoai",
+      "groupOrder": 1,
       "order": 4,
-      "description": "Đủ dùng, pin tốt, giá hợp lý"
+      "description": "Đủ dùng hằng ngày, pin tốt, giá mềm"
     },
     {
       "id": 5,
       "name": "Giá rẻ",
       "slug": "gia-re",
+      "group": "Điện thoại",
+      "groupSlug": "dien-thoai",
+      "groupOrder": 1,
       "order": 5,
-      "description": "Dưới 9 triệu, phù hợp học sinh – sinh viên"
+      "description": "Máy cơ bản cho học sinh, sinh viên, máy phụ"
+    },
+    {
+      "id": 6,
+      "name": "Tai nghe",
+      "slug": "tai-nghe",
+      "group": "Âm thanh",
+      "groupSlug": "am-thanh",
+      "groupOrder": 2,
+      "order": 1,
+      "description": "Tai nghe chụp tai, true wireless, có chống ồn"
+    },
+    {
+      "id": 7,
+      "name": "Loa",
+      "slug": "loa",
+      "group": "Âm thanh",
+      "groupSlug": "am-thanh",
+      "groupOrder": 2,
+      "order": 2,
+      "description": "Loa bluetooth di động, chống nước"
+    },
+    {
+      "id": 8,
+      "name": "Củ sạc",
+      "slug": "cu-sac",
+      "group": "Phụ kiện",
+      "groupSlug": "phu-kien",
+      "groupOrder": 3,
+      "order": 1,
+      "description": "Củ sạc nhanh, sạc không dây chính hãng"
+    },
+    {
+      "id": 9,
+      "name": "Dây sạc",
+      "slug": "day-sac",
+      "group": "Phụ kiện",
+      "groupSlug": "phu-kien",
+      "groupOrder": 3,
+      "order": 2,
+      "description": "Cáp USB-C, Lightning, sạc nhanh công suất cao"
+    },
+    {
+      "id": 10,
+      "name": "Đồng hồ thông minh",
+      "slug": "dong-ho-thong-minh",
+      "group": "Đồng hồ",
+      "groupSlug": "dong-ho",
+      "groupOrder": 4,
+      "order": 1,
+      "description": "Smartwatch theo dõi sức khỏe, thông báo"
     }
   ],
   "seo": {
     "siteName": "PD12682 Phone Store",
     "titleTemplate": "%s | PD12682",
     "homeTitle": "PD12682 — Điện thoại chính hãng, giá tốt, giao 2 giờ",
-    "description": "26 mẫu điện thoại chính hãng Apple, Samsung, Xiaomi, OPPO, vivo, realme, Nokia, Sony, Honor, Google Pixel. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
-    "keywords": "điện thoại chính hãng, mua điện thoại giá rẻ, iphone chính hãng, samsung galaxy, xiaomi chính hãng, oppo, vivo, realme, pd12682, phone store",
+    "description": "41 sản phẩm chính hãng: điện thoại Apple, Samsung, Xiaomi, OPPO, vivo, realme, Nokia, Sony, Honor, Google Pixel; tai nghe, loa, củ sạc, dây sạc, đồng hồ thông minh. Bảo hành 12 tháng, giao 2 giờ nội thành, thanh toán khi nhận hàng. Hotline 079 634 6492.",
+    "keywords": "điện thoại chính hãng, mua điện thoại giá rẻ, iphone chính hãng, samsung galaxy, xiaomi chính hãng, oppo, vivo, realme, tai nghe bluetooth, loa bluetooth, củ sạc nhanh, dây sạc usb-c, đồng hồ thông minh, pd12682, phone store",
     "canonicalBase": "https://levuduy010307-star.github.io/pd12682-phone-store/",
     "ogImage": "https://levuduy010307-star.github.io/pd12682-phone-store/img/og-cover.png",
     "locale": "vi_VN",

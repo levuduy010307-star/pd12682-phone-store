@@ -54,7 +54,7 @@
       </div>
       
       <ul class="hero-trust">
-        <li><strong>20+</strong><span>Mẫu máy</span></li>
+        <li><strong>41</strong><span>Sản phẩm</span></li>
         <li><strong>12</strong><span>Tháng bảo hành</span></li>
         <li><strong>2h</strong><span>Giao nội thành</span></li>
       </ul>
@@ -77,27 +77,37 @@
 
   <!-- Main Products Section -->
   <main class="container" id="products">
-    <div class="cats" id="categoryBar"></div>
-    
-    <div class="section-head">
-      <div>
-        <p class="eyebrow">SẢN PHẨM</p>
-        <h2>Điện thoại nổi bật</h2>
-      </div>
-      <div class="filters">
-        <select id="brandFilter">
-          <option value="">Tất cả hãng</option>
-        </select>
-        <select id="sortFilter">
-          <option value="featured">Nổi bật</option>
-          <option value="asc">Giá thấp đến cao</option>
-          <option value="desc">Giá cao đến thấp</option>
-        </select>
+    <div class="shop">
+      <button class="side-toggle" id="sideToggle" type="button">
+        <svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+        Danh mục sản phẩm
+        <span class="st-caret">&#8250;</span>
+      </button>
+      <aside class="sidebar" id="catSidebar" aria-label="Danh mục sản phẩm"></aside>
+
+      <div class="shop-main">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">SẢN PHẨM</p>
+            <h2 id="shopTitle">Tất cả sản phẩm</h2>
+          </div>
+          <div class="filters">
+            <select id="brandFilter">
+              <option value="">Tất cả hãng</option>
+            </select>
+            <select id="sortFilter">
+              <option value="featured">Nổi bật</option>
+              <option value="asc">Giá thấp đến cao</option>
+              <option value="desc">Giá cao đến thấp</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="productGrid" class="grid"></div>
+        <p id="emptyMsg" class="muted hidden">Không tìm thấy sản phẩm.</p>
+        <div class="more-wrap"><button id="loadMore" class="btn secondary hidden">Xem thêm sản phẩm</button></div>
       </div>
     </div>
-
-    <div id="productGrid" class="grid"></div>
-    <p id="emptyMsg" class="muted hidden">Không tìm thấy sản phẩm.</p>
   </main>
 
   <!-- Footer Section -->

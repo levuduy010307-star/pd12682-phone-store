@@ -9,7 +9,7 @@ qua `json-server`. Bài tập môn WEB2053.
 
 ## Chức năng
 
-- **Trang chủ** — banner hero, 25 sản phẩm (5 hãng × 5 mẫu), lọc theo hãng, sắp xếp theo giá
+- **Trang chủ** — banner hero, 25 sản phẩm (5 hãng × 5 mẫu), lọc theo **5 danh mục**, lọc theo hãng, sắp xếp theo giá
 - **Tìm kiếm** — theo tên sản phẩm
 - **Chi tiết sản phẩm** — ảnh, cấu hình, giá, số lượng còn
 - **Giỏ hàng** — thêm/xóa/sửa số lượng, lưu bằng `localStorage`

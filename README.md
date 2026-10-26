@@ -17,6 +17,8 @@ qua `json-server`. Bài tập môn WEB2053.
 - **Đặt hàng** — ghi đơn vào `db.json` (cần chạy server)
 - **Đăng nhập / Đăng ký** — kiểm tra email trùng, lưu vào `db.json` (cần chạy server)
 - **Trang quản trị** (`admin.html`) — thêm tài khoản, thêm/sửa/xóa sản phẩm (cần chạy server)
+- **Liên hệ & phản hồi** — footer mọi trang có hotline, email, link fanpage; nút nổi "Nhắn page" /
+  "Gọi shop" ở góc phải (tự ẩn khi cuộn tới footer để không che nội dung)
 
 ## Công nghệ
 

@@ -298,5 +298,17 @@
     "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=800&q=80",
     "description": "Tầm trung: màn hình AMOLED, pin 5.000mAh, sạc nhanh, đủ dùng học tập và giải trí.",
     "featured": false
+  },
+  {
+    "name": "Iphone 12",
+    "brand": "Apple",
+    "category": "Giá rẻ",
+    "price": 8900000,
+    "oldPrice": 9900000,
+    "stock": 3,
+    "image": "https://www.google.com.vn/aclk?sa=L&ai=DChsSEwjuyeOlm9iXAxWv2UwCHXjTCysYACICCAEQBRoCdG0&co=1&ase=2&gclid=CjwKCAjw9PvWBhAxEiwAddzYySLREyBHIO0CPJ_MsQhEpQGdcPw5q8UE2fJK4ZJAZGkmDM6qxj4uNxoCTxkQAvD_BwE&cid=CAAS3QHkaCD5X5qKmWuGYL1sK6a8Vn9eQ7PBH2iC4ut0jiKxmDqRmOJYq3ew1IyBHJRaOKXSBePp9YYp0xG75UajF9HaaGOOqIargrA3X7aegaFOC2VVg4wbAanPI8Fdy7Wbii0UOZkXDc71V825YsuqxQShNOpa8bUm71_1xpeqrcJ6-IxuZIjqIjbwRZ68D1a-mySSSp-qhO1-oYu3JZXKYcHOKcGhL7_3GvJDRU5q6Oee0wlgfrcrlwxS32DILCP7PfIoSzy4-i5Pluf-9lEdhqmO5kdZUH-OIGp1abO4gA&cce=2&category=acrcp_v1_32&sig=AOD64_3SNzuuHFqyQqij2rw2zx0aAfoHCg&ctype=5&q=&nis=4&ved=2ahUKEwj23d6lm9iXAxWaoq8BHaaEHkkQ5bgDKAB6BAgIEC8&adurl=",
+    "description": "Ngon bor re",
+    "featured": false,
+    "id": "ft_k-AkrYwQ"
   }
 ]

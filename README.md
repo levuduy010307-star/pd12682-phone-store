@@ -56,6 +56,20 @@ data/products.json  Bản chụp tĩnh để chạy trên GitHub Pages
 img/fallback.png  Ảnh thay thế khi ảnh lỗi
 ```
 
+## Lỗi thường gặp
+
+**Thêm sản phẩm mà không thấy lưu**
+
+1. Kiểm tra `json-server` có đang chạy không: mở http://localhost:3000/products, phải thấy JSON.
+   Nếu không thấy → chạy `npm start` (hoặc `npx json-server --watch db.json --port 3000`).
+2. Nếu đang mở **bản GitHub Pages** (`levuduy010307-star.github.io/pd12682-phone-store/`) thì
+   **không lưu được** — Pages chỉ chạy file tĩnh, không có server để ghi `db.json`.
+   Muốn thêm/sửa sản phẩm phải chạy local.
+3. Thêm bằng local xong, muốn **bản online** cũng thấy sản phẩm mới thì phải xuất lại
+   `data/products.json` (chép mảng `products` từ `db.json` sang).
+
+**Ô "URL hình ảnh"** — dán link ảnh `https://...`, hoặc để trống thì dùng `img/fallback.png`.
+
 ## Ghi chú về GitHub Pages
 
 Pages chỉ chạy file tĩnh nên **không có** `json-server`. `app.js` tự dự phòng: gọi API thất bại

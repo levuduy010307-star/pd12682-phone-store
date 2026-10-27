@@ -26,6 +26,10 @@ qua `json-server`. Bài tập môn WEB2053.
 - **Đặt hàng** — ghi đơn vào `db.json` (cần chạy server)
 - **Đăng nhập / Đăng ký** — kiểm tra email trùng, lưu vào `db.json` (cần chạy server)
 - **Trang quản trị** (`admin.html`) — thêm tài khoản, thêm/sửa/xóa sản phẩm (cần chạy server)
+- **Trang cấu hình SEO & Facebook** (`admin-seo.html`) — 4 tab: SEO sản phẩm (41 mục), SEO bài viết (6 bài),
+  Tối ưu SEO hệ thống, Cấu hình chức năng Facebook. Mỗi mục có ô nhập + xem trước kết quả Google và thẻ chia sẻ
+  Facebook; tab hệ thống có thang điểm SEO 100 và bảng thẻ meta sẽ nhúng. Lưu thẳng vào `db.json` khi có
+  json-server, hoặc nút **Xuất JSON** → `python apply-seo.py seo-export.json` khi chạy bản tĩnh
 - **Liên hệ & phản hồi** — footer mọi trang có hotline, email, link fanpage; nút nổi "Nhắn page" /
   "Gọi shop" ở góc phải (tự ẩn khi cuộn tới footer để không che nội dung)
 - **SEO** — mỗi sản phẩm và mỗi bài viết có bộ thẻ SEO riêng (`seo.title`, `seo.description`,
@@ -94,12 +98,15 @@ thankyou.html     Cảm ơn sau khi đặt
 login.html        Đăng nhập
 register.html     Đăng ký
 admin.html        Quản trị
+admin-seo.html    Cấu hình SEO sản phẩm / bài viết / hệ thống / Facebook (4 tab)
+admin-seo.js      Logic của trang cấu hình SEO
+apply-seo.py      Ghi seo-export.json vào data/ và db.json
 app.js            Toàn bộ logic
 style.css         Toàn bộ giao diện
 db.json           Dữ liệu gốc (products / categories / posts / seo / facebook / users / orders)
 data/*.json       Bản chụp tĩnh để chạy trên GitHub Pages
 robots.txt        Cho công cụ tìm kiếm
-sitemap.xml       Sơ đồ site (34 URL: trang chủ, blog, 6 bài viết, 26 sản phẩm)
+sitemap.xml       Sơ đồ site (50 URL: trang chủ, blog, 6 bài viết, 41 sản phẩm)
 img/fallback.png  Ảnh thay thế khi ảnh lỗi
 BAI-DANG-FANPAGE.md    6 bài đăng fanpage
 BAI-VIET-BACKLINK.md   3 bài đăng Blogger/WordPress kèm backlink

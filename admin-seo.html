@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cấu hình SEO &amp; Facebook | Quản trị PD12682</title>
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="top">
+    <a class="logo" href="index.html">PD<span>12682</span></a>
+    <nav>
+      <a href="index.html">Xem cửa hàng</a>
+      <a href="products.html">Sản phẩm</a>
+      <a href="blog.html">Bài viết</a>
+      <a href="admin.html">Quản trị</a>
+      <a href="admin-seo.html" style="color:var(--orange);font-weight:700">SEO &amp; Facebook</a>
+    </nav>
+  </header>
+
+  <main class="container aseo">
+
+    <div class="aseo-head">
+      <div>
+        <p class="eyebrow">QUẢN TRỊ · CẤU HÌNH</p>
+        <h1>SEO &amp; Facebook</h1>
+        <p class="muted aseo-sub">Bốn nhóm cấu hình: SEO từng sản phẩm, SEO từng bài viết, tối ưu SEO toàn hệ thống và các chức năng Facebook.</p>
+      </div>
+      <div class="aseo-head-act">
+        <span class="aseo-dot" id="connDot" title="Đang kiểm tra…"><i></i><b id="connText">Đang kiểm tra…</b></span>
+        <button class="btn secondary small" id="exportBtn" type="button">Xuất JSON</button>
+        <a class="btn small" href="admin.html">Quản trị cửa hàng</a>
+      </div>
+    </div>
+
+    <div class="aseo-tabs" role="tablist">
+      <button class="aseo-tab active" data-tab="sp" type="button" role="tab">
+        <span class="at-ico">1</span>
+        <span><b>SEO sản phẩm</b><i>Mở cấu hình SEO của sản phẩm</i></span>
+        <em id="badgeSp">0</em>
+      </button>
+      <button class="aseo-tab" data-tab="bv" type="button" role="tab">
+        <span class="at-ico">2</span>
+        <span><b>SEO bài viết</b><i>Mở cấu hình SEO của bài viết</i></span>
+        <em id="badgeBv">0</em>
+      </button>
+      <button class="aseo-tab" data-tab="ht" type="button" role="tab">
+        <span class="at-ico">3</span>
+        <span><b>Tối ưu SEO hệ thống</b><i>Tiêu đề, mô tả, robots, sitemap</i></span>
+        <em id="badgeHt">—</em>
+      </button>
+      <button class="aseo-tab" data-tab="fb" type="button" role="tab">
+        <span class="at-ico">4</span>
+        <span><b>Cấu hình Facebook</b><i>Fanpage, Messenger, Pixel</i></span>
+        <em id="badgeFb">—</em>
+      </button>
+    </div>
+
+    <div id="aseoNote" class="aseo-note hidden"></div>
+
+    <!-- ============ TAB 1: SEO SẢN PHẨM ============ -->
+    <section class="aseo-panel" data-panel="sp">
+      <div class="panel-bar">
+        <div>
+          <h2>Cấu hình SEO của sản phẩm</h2>
+          <p class="muted">Mỗi sản phẩm có tiêu đề, mô tả, từ khoá, slug và ảnh chia sẻ riêng. Đây là những gì Google và Facebook đọc được.</p>
+        </div>
+        <div class="panel-bar-act">
+          <input id="sp_search" placeholder="Tìm sản phẩm…" class="aseo-search-in">
+        </div>
+      </div>
+      <div id="editorSp"></div>
+    </section>
+
+    <!-- ============ TAB 2: SEO BÀI VIẾT ============ -->
+    <section class="aseo-panel hidden" data-panel="bv">
+      <div class="panel-bar">
+        <div>
+          <h2>Cấu hình SEO của bài viết</h2>
+          <p class="muted">Bài viết chuẩn SEO cần tiêu đề riêng, mô tả riêng và slug thân thiện thay vì <code>post.html?id=…</code>.</p>
+        </div>
+        <div class="panel-bar-act">
+          <input id="bv_search" placeholder="Tìm bài viết…" class="aseo-search-in">
+        </div>
+      </div>
+      <div id="editorBv"></div>
+    </section>
+
+    <!-- ============ TAB 3: TỐI ƯU SEO HỆ THỐNG ============ -->
+    <section class="aseo-panel hidden" data-panel="ht">
+      <div class="panel-bar">
+        <div>
+          <h2>Tối ưu SEO của hệ thống</h2>
+          <p class="muted">Cấu hình dùng chung cho toàn website: tên site, mẫu tiêu đề, robots, canonical, sitemap, mã đo lường.</p>
+        </div>
+        <div class="panel-bar-act">
+          <button class="btn small" id="htSave" type="button">Lưu cấu hình</button>
+        </div>
+      </div>
+
+      <div class="aseo-sys">
+        <div class="aseo-sys-form">
+          <fieldset class="aseo-fs">
+            <legend>Thông tin website</legend>
+            <div class="two">
+              <label>Tên website
+                <input id="ht_siteName">
+              </label>
+              <label>Mẫu tiêu đề <span class="hint">%s = tên trang</span>
+                <input id="ht_titleTemplate">
+              </label>
+            </div>
+            <label>Tiêu đề trang chủ
+              <input id="ht_homeTitle">
+            </label>
+            <label>Meta description toàn site <span class="cnt" id="ht_dCnt">0/160</span>
+              <textarea id="ht_description" rows="3" maxlength="220"></textarea>
+            </label>
+            <label>Keywords toàn site
+              <textarea id="ht_keywords" rows="3"></textarea>
+            </label>
+          </fieldset>
+
+          <fieldset class="aseo-fs">
+            <legend>Lập chỉ mục &amp; chia sẻ</legend>
+            <div class="two">
+              <label>Canonical base
+                <input id="ht_canonicalBase">
+              </label>
+              <label>Ảnh OG mặc định
+                <input id="ht_ogImage">
+              </label>
+            </div>
+            <div class="two">
+              <label>Ngôn ngữ (og:locale)
+                <select id="ht_locale">
+                  <option value="vi_VN">vi_VN — Tiếng Việt</option>
+                  <option value="en_US">en_US — English</option>
+                </select>
+              </label>
+              <label>Robots
+                <select id="ht_robots">
+                  <option value="index,follow">index,follow — cho Google lập chỉ mục</option>
+                  <option value="noindex,nofollow">noindex,nofollow — chặn hoàn toàn</option>
+                  <option value="index,nofollow">index,nofollow</option>
+                </select>
+              </label>
+            </div>
+            <div class="two">
+              <label>Twitter card
+                <select id="ht_twitterCard">
+                  <option value="summary_large_image">summary_large_image — ảnh lớn</option>
+                  <option value="summary">summary — ảnh nhỏ</option>
+                </select>
+              </label>
+              <label class="check mt">Sitemap
+                <span><input type="checkbox" id="ht_sitemapEnabled"> Bật <code>sitemap.xml</code> tự động</span>
+              </label>
+            </div>
+          </fieldset>
+
+          <fieldset class="aseo-fs">
+            <legend>Đo lường &amp; xác minh</legend>
+            <div class="two">
+              <label>Google Analytics (G-…)
+                <input id="ht_googleAnalytics" placeholder="G-XXXXXXXXXX">
+              </label>
+              <label>Google Search Console
+                <input id="ht_searchConsole" placeholder="mã xác minh content=…">
+              </label>
+            </div>
+            <p class="hint">Để trống thì website không nhúng mã theo dõi — đúng cho bản demo.</p>
+          </fieldset>
+
+          <fieldset class="aseo-fs">
+            <legend>Thông tin tổ chức (JSON-LD)</legend>
+            <div class="two">
+              <label>Tên tổ chức
+                <input id="ht_organizationName">
+              </label>
+              <label>Số điện thoại
+                <input id="ht_phone">
+              </label>
+            </div>
+            <div class="two">
+              <label>Email
+                <input id="ht_email">
+              </label>
+              <label>Địa chỉ
+                <input id="ht_address">
+              </label>
+            </div>
+          </fieldset>
+
+          <p class="message" id="htMsg"></p>
+        </div>
+
+        <aside class="aseo-sys-side">
+          <div class="score-card">
+            <p class="pv-h">Điểm SEO hệ thống</p>
+            <div class="score-num"><b id="scoreNum">0</b><span>/100</span></div>
+            <div class="score-bar"><i id="scoreBar" style="width:0%"></i></div>
+            <ul class="score-list" id="scoreList"></ul>
+          </div>
+
+          <div class="panel soft">
+            <p class="pv-h">Tệp đang phục vụ</p>
+            <p class="file-row"><a href="robots.txt" target="_blank" rel="noopener">robots.txt</a><span id="fileRobots">—</span></p>
+            <p class="file-row"><a href="sitemap.xml" target="_blank" rel="noopener">sitemap.xml</a><span id="fileSitemap">—</span></p>
+            <p class="hint">Sitemap liệt kê toàn bộ trang sản phẩm và bài viết để Google thu thập nhanh hơn.</p>
+          </div>
+
+          <div class="panel soft">
+            <p class="pv-h">Xem trước thẻ meta</p>
+            <pre class="code-prev" id="metaPrev"></pre>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ TAB 4: CẤU HÌNH FACEBOOK ============ -->
+    <section class="aseo-panel hidden" data-panel="fb">
+      <div class="panel-bar">
+        <div>
+          <h2>Cấu hình các chức năng của Facebook</h2>
+          <p class="muted">Kết nối fanpage với website: nút nhắn tin, nút chia sẻ, khung bình luận, Pixel và xác minh tên miền.</p>
+        </div>
+        <div class="panel-bar-act">
+          <button class="btn small" id="fbSave" type="button">Lưu cấu hình</button>
+        </div>
+      </div>
+
+      <div class="aseo-sys">
+        <div class="aseo-sys-form">
+          <fieldset class="aseo-fs">
+            <legend>Fanpage</legend>
+            <div class="two">
+              <label>Tên page
+                <input id="fb_pageName">
+              </label>
+              <label>Page ID
+                <input id="fb_pageId">
+              </label>
+            </div>
+            <label>Đường dẫn page
+              <input id="fb_pageUrl">
+            </label>
+            <div class="two">
+              <label>Tên Messenger (m.me/…)
+                <input id="fb_messengerUsername" placeholder="pd12682shop">
+              </label>
+              <label>Facebook App ID
+                <input id="fb_appId" placeholder="dùng cho fb:app_id">
+              </label>
+            </div>
+          </fieldset>
+
+          <fieldset class="aseo-fs">
+            <legend>Chức năng nhúng vào website</legend>
+            <div class="toggles">
+              <label class="toggle">
+                <input type="checkbox" id="fb_enableMessengerBubble">
+                <span class="tg"></span>
+                <span><b>Bong bóng nhắn tin</b><i>Nút “Nhắn page” nổi ở góc phải mọi trang</i></span>
+              </label>
+              <label class="toggle">
+                <input type="checkbox" id="fb_enableShareButton">
+                <span class="tg"></span>
+                <span><b>Nút chia sẻ Facebook</b><i>Hiện ở trang sản phẩm và cuối bài viết</i></span>
+              </label>
+              <label class="toggle">
+                <input type="checkbox" id="fb_enableCommentBox">
+                <span class="tg"></span>
+                <span><b>Khung bình luận</b><i>Bình luận bằng tài khoản Facebook, có backlink tự nhiên</i></span>
+              </label>
+              <label class="toggle">
+                <input type="checkbox" id="fb_enablePixel">
+                <span class="tg"></span>
+                <span><b>Facebook Pixel</b><i>Đo lường chuyển đổi, cần Pixel ID bên dưới</i></span>
+              </label>
+            </div>
+          </fieldset>
+
+          <fieldset class="aseo-fs">
+            <legend>Pixel &amp; xác minh tên miền</legend>
+            <div class="two">
+              <label>Pixel ID
+                <input id="fb_pixelId" placeholder="1234567890">
+              </label>
+              <label>Mã xác minh tên miền
+                <input id="fb_domainVerification" placeholder="facebook-domain-verification">
+              </label>
+            </div>
+            <label>Nội dung khi chia sẻ (shareText)
+              <textarea id="fb_shareText" rows="2"></textarea>
+            </label>
+          </fieldset>
+
+          <p class="message" id="fbMsg"></p>
+        </div>
+
+        <aside class="aseo-sys-side">
+          <div class="panel soft">
+            <p class="pv-h">Thẻ meta sẽ được nhúng</p>
+            <pre class="code-prev" id="fbMetaPrev"></pre>
+          </div>
+
+          <div class="panel soft">
+            <p class="pv-h">Xem trước trên website</p>
+            <div class="fb-demo">
+              <div class="fb-demo-bubble" id="demoBubble">
+                <svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M12 3C6.9 3 3 6.6 3 11c0 2.5 1.3 4.7 3.4 6.2V21l3-1.7c.8.2 1.7.3 2.6.3 5.1 0 9-3.6 9-8S17.1 3 12 3z"/></svg>
+                Nhắn page
+              </div>
+              <div class="fb-demo-btns">
+                <span class="fb-demo-btn" id="demoShare">Chia sẻ</span>
+                <span class="fb-demo-btn" id="demoComment">Bình luận</span>
+              </div>
+              <p class="hint" id="demoState">—</p>
+            </div>
+          </div>
+
+          <div class="panel soft">
+            <p class="pv-h">Liên kết nhanh</p>
+            <p class="file-row"><a id="fbPageLink" href="#" target="_blank" rel="noopener">Mở fanpage</a><span>↗</span></p>
+            <p class="file-row"><a href="https://business.facebook.com/events_manager" target="_blank" rel="noopener">Events Manager (Pixel)</a><span>↗</span></p>
+            <p class="file-row"><a href="https://developers.facebook.com/tools/debug/" target="_blank" rel="noopener">Debugger kiểm tra thẻ OG</a><span>↗</span></p>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-foot"><div class="foot-grid"><div><p class="foot-brand">PD<span>12682</span></p><p class="foot-tag">Điện thoại chính hãng · Bảo hành 12 tháng · Giao 2 giờ nội thành</p></div><div><h4>Liên hệ</h4><p><a href="tel:0796346492">079 634 6492</a></p><p><a href="mailto:levuduy010307@gmail.com">levuduy010307@gmail.com</a></p><p><a href="https://www.facebook.com/profile.php?id=61595509697092" target="_blank" rel="noopener noreferrer">Facebook — Pd12682 Shop</a></p></div><div><h4>Quản trị</h4><p><a href="admin.html">Sản phẩm &amp; đơn hàng</a></p><p><a href="admin-seo.html">Cấu hình SEO &amp; Facebook</a></p></div></div><p class="foot-copy">© 2026 PD12682 Phone Store · Chọn đúng điện thoại, sống chất mỗi ngày.</p></footer>
+
+  <script src="admin-seo.js"></script>
+</body>
+</html>

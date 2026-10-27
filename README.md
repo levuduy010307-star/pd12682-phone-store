@@ -42,6 +42,11 @@ qua `json-server`. Bài tập môn WEB2053.
   meta description, Open Graph, canonical và JSON-LD Organization từ `seo` + `facebook` trong `db.json`
 - **Facebook** — cấu hình Page ID, Messenger, App ID, Pixel ID, domain verification trong `db.json`
   (bật Pixel bằng `enablePixel: true`)
+- **Email Marketing (Brevo)** — `email-marketing/brevo-email.html` là email quảng cáo dán thẳng vào Brevo:
+  3 sản phẩm thật + giá thật, backlink về website (`sp-*.html`, `products.html`) và fanpage, có UTM
+  `utm_source=brevo`. Kèm `email-marketing/danh-sach-10-email.csv` (10 liên hệ) và
+  `HUONG-DAN-BREVO.md` (hướng dẫn 7 bước + cách lấy báo cáo Click làm bằng chứng).
+  Sinh lại email sau khi đổi giá: `python build/brevo_email.py`
 
 ## Công nghệ
 
@@ -115,6 +120,9 @@ sitemap.xml       Sơ đồ site (50 URL: trang chủ, products, blog, 6 bv-*, 4
 img/fallback.png  Ảnh thay thế khi ảnh lỗi
 BAI-DANG-FANPAGE.md    6 bài đăng fanpage
 BAI-VIET-BACKLINK.md   3 bài đăng Blogger/WordPress kèm backlink
+HUONG-DAN-BREVO.md     Hướng dẫn gửi email marketing bằng Brevo (7 bước)
+email-marketing/brevo-email.html       Email quảng cáo dán thẳng vào Brevo
+email-marketing/danh-sach-10-email.csv Danh sách 10 email để import
 ```
 
 > Sau khi sửa `db.json`, chạy lại script xuất bản tĩnh để `data/*.json` khớp với bản online.

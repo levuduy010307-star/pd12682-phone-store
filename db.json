@@ -39,6 +39,14 @@
       "role": "user",
       "createdAt": "2026-10-26T17:35:53.328Z",
       "id": "yP6CYynpoBA"
+    },
+    {
+      "name": "kkkk",
+      "email": "kkk123@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "createdAt": "2026-10-27T14:29:07.467Z",
+      "id": "dTTyQuCOyko"
     }
   ],
   "products": [
@@ -189,7 +197,7 @@
         "title": "Galaxy S25+ 256GB — 23.990.000₫ | PD12682",
         "description": "Galaxy S25+ 256GB chính hãng tại PD12682 — 23.990.000₫, giảm 2.000.000₫. Bảo hành 12 tháng, giao 2 giờ nội thành, trả góp 0%, COD.",
         "keywords": "galaxy s25+ 256gb, samsung cận cao cấp, điện thoại chính hãng, mua galaxy s25+ 256gb giá rẻ, pd12682",
-        "slug": "galaxy-s25-256gb",
+        "slug": "galaxy-s25-plus-256gb",
         "ogImage": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
         "noindex": false
       },
@@ -365,7 +373,7 @@
         "title": "Redmi Note 14 Pro+ 256GB — 8.490.000₫ | PD12682",
         "description": "Redmi Note 14 Pro+ 256GB chính hãng tại PD12682 — 8.490.000₫, giảm 1.000.000₫. Bảo hành 12 tháng, giao 2 giờ nội thành, trả góp 0%, COD.",
         "keywords": "redmi note 14 pro+ 256gb, xiaomi phổ thông, điện thoại chính hãng, mua redmi note 14 pro+ 256gb giá rẻ, pd12682",
-        "slug": "redmi-note-14-pro-256gb",
+        "slug": "redmi-note-14-pro-plus-256gb",
         "ogImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80",
         "noindex": false
       },
@@ -968,10 +976,9 @@
       "id": "VuYcm1w5o0Q"
     }
   ],
-  "$schema": "./node_modules/json-server/schema.json",
   "categories": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Flagship",
       "slug": "flagship",
       "group": "Điện thoại",
@@ -981,7 +988,7 @@
       "description": "Máy đầu bảng: camera tele, chip mạnh nhất, màn hình LTPO 120Hz"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Cận cao cấp",
       "slug": "can-cao-cap",
       "group": "Điện thoại",
@@ -991,7 +998,7 @@
       "description": "Cấu hình cao, giá dễ chịu hơn flagship"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Tầm trung",
       "slug": "tam-trung",
       "group": "Điện thoại",
@@ -1001,7 +1008,7 @@
       "description": "Cân bằng giữa hiệu năng và giá"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Phổ thông",
       "slug": "pho-thong",
       "group": "Điện thoại",
@@ -1011,7 +1018,7 @@
       "description": "Đủ dùng hằng ngày, pin tốt, giá mềm"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Giá rẻ",
       "slug": "gia-re",
       "group": "Điện thoại",
@@ -1021,7 +1028,7 @@
       "description": "Máy cơ bản cho học sinh, sinh viên, máy phụ"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Tai nghe",
       "slug": "tai-nghe",
       "group": "Âm thanh",
@@ -1031,7 +1038,7 @@
       "description": "Tai nghe chụp tai, true wireless, có chống ồn"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Loa",
       "slug": "loa",
       "group": "Âm thanh",
@@ -1041,7 +1048,7 @@
       "description": "Loa bluetooth di động, chống nước"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Củ sạc",
       "slug": "cu-sac",
       "group": "Phụ kiện",
@@ -1051,7 +1058,7 @@
       "description": "Củ sạc nhanh, sạc không dây chính hãng"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Dây sạc",
       "slug": "day-sac",
       "group": "Phụ kiện",
@@ -1061,7 +1068,7 @@
       "description": "Cáp USB-C, Lightning, sạc nhanh công suất cao"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Đồng hồ thông minh",
       "slug": "dong-ho-thong-minh",
       "group": "Đồng hồ",
@@ -1104,7 +1111,7 @@
     "enableCommentBox": false,
     "enablePixel": false,
     "shareText": "PD12682 — điện thoại chính hãng, giá tốt, bảo hành 12 tháng",
-    "updatedAt": "2026-10-27T00:57:21"
+    "updatedAt": "2026-10-27T14:33:10"
   },
   "posts": [
     {
@@ -1254,5 +1261,6 @@
         "noindex": false
       }
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

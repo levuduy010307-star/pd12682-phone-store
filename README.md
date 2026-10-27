@@ -32,6 +32,11 @@ qua `json-server`. Bài tập môn WEB2053.
   json-server, hoặc nút **Xuất JSON** → `python apply-seo.py seo-export.json` khi chạy bản tĩnh
 - **Liên hệ & phản hồi** — footer mọi trang có hotline, email, link fanpage; nút nổi "Nhắn page" /
   "Gọi shop" ở góc phải (tự ẩn khi cuộn tới footer để không che nội dung)
+- **Trang tĩnh cho từng sản phẩm / bài viết** — 41 trang `sp-<slug>.html` và 6 trang `bv-<slug>.html` được
+  sinh sẵn (prerender) để `<title>`, meta description, `og:image`, canonical và JSON-LD nằm ngay trong HTML.
+  Nhờ vậy Google đọc được nội dung và bộ đọc link của Facebook/Zalo hiện đúng ảnh + tiêu đề khi dán link
+- **Dữ liệu có cấu trúc (JSON-LD)** — `Product` + `Offer` + `AggregateRating` ở trang sản phẩm,
+  `BlogPosting` ở bài viết, `BreadcrumbList` ở cả hai, `Organization` + `WebSite` ở trang chủ
 - **SEO** — mỗi sản phẩm và mỗi bài viết có bộ thẻ SEO riêng (`seo.title`, `seo.description`,
   `seo.keywords`, `seo.slug`, `seo.ogImage`, `seo.noindex`). `app.js` tự sinh `<title>`,
   meta description, Open Graph, canonical và JSON-LD Organization từ `seo` + `facebook` trong `db.json`
@@ -106,7 +111,7 @@ style.css         Toàn bộ giao diện
 db.json           Dữ liệu gốc (products / categories / posts / seo / facebook / users / orders)
 data/*.json       Bản chụp tĩnh để chạy trên GitHub Pages
 robots.txt        Cho công cụ tìm kiếm
-sitemap.xml       Sơ đồ site (50 URL: trang chủ, blog, 6 bài viết, 41 sản phẩm)
+sitemap.xml       Sơ đồ site (50 URL: trang chủ, products, blog, 6 bv-*, 41 sp-*)
 img/fallback.png  Ảnh thay thế khi ảnh lỗi
 BAI-DANG-FANPAGE.md    6 bài đăng fanpage
 BAI-VIET-BACKLINK.md   3 bài đăng Blogger/WordPress kèm backlink

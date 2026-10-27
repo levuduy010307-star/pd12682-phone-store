@@ -18,7 +18,8 @@
       "description": "Chia ngân sách thành 3 nhóm dưới 10 triệu, 10–20 triệu và trên 20 triệu để không bị rối khi chọn giữa hàng trăm mẫu máy. Kèm gợi ý máy cụ thể từng nhóm.",
       "keywords": "chọn điện thoại, tư vấn mua điện thoại, điện thoại theo ngân sách",
       "ogImage": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
-      "noindex": false
+      "noindex": false,
+      "slug": "chon-dien-thoai-theo-ngan-sach"
     },
     "category": "Tư vấn",
     "views": 1284
@@ -42,7 +43,8 @@
       "description": "Bốn điểm quyết định khi mua iPhone 16 Pro Max: camera tele 5x, màn 6,9 inch, chip A18 Pro và những ai KHÔNG nên mua máy này.",
       "keywords": "iPhone 16 Pro Max, đánh giá iPhone, mua iPhone chính hãng",
       "ogImage": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1200&q=80",
-      "noindex": false
+      "noindex": false,
+      "slug": "iphone-16-pro-max-co-dang-mua"
     },
     "category": "Đánh giá",
     "views": 2411
@@ -66,7 +68,8 @@
       "description": "Quay video mở hộp, đối chiếu IMEI ba nơi, soi điểm chết màn hình, thử camera và pin — 7 bước mất 5 phút giúp bạn không mất tiền oan.",
       "keywords": "kiểm tra máy, mua điện thoại online, máy dựng",
       "ogImage": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=80",
-      "noindex": false
+      "noindex": false,
+      "slug": "7-buoc-kiem-tra-may-khi-nhan-hang"
     },
     "category": "Bảo hành",
     "views": 3760
@@ -93,7 +96,8 @@
       "description": "So sánh Galaxy S25 Ultra và S23 Ultra qua 5 điểm: thiết kế, camera zoom 5x, chip Snapdragon 8 Elite, 7 năm cập nhật và pin. Giá 28.990.000₫ tại PD12682.",
       "keywords": "galaxy s25 ultra, đánh giá galaxy s25 ultra, s25 ultra giá bao nhiêu, so sánh s25 ultra và s23 ultra",
       "ogImage": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=1200&q=80",
-      "noindex": false
+      "noindex": false,
+      "slug": "galaxy-s25-ultra-co-dang-nang-cap"
     }
   },
   {
@@ -118,7 +122,8 @@
       "description": "Reno13 Pro 5G 256GB giá 16.990.000₫: ống tele riêng, pin 5.800 mAh, sạc 80W, IP69. Đánh giá 4 điểm mạnh và ai nên mua.",
       "keywords": "oppo reno13 pro, reno13 pro 5g giá bao nhiêu, điện thoại chụp chân dung, oppo chính hãng",
       "ogImage": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1200&q=80",
-      "noindex": false
+      "noindex": false,
+      "slug": "reno13-pro-5g-may-chup-chan-dung"
     }
   },
   {
@@ -143,7 +148,8 @@
       "description": "vivo V40 Pro 5G 256GB giá 14.990.000₫: pin 5.500 mAh, sạc 80W, camera ZEISS. So sánh với Xiaomi 14T Pro và Reno13 Pro cùng tầm tiền.",
       "keywords": "vivo v40 pro, vivo v40 pro giá bao nhiêu, so sánh điện thoại 15 triệu, vivo chính hãng",
       "ogImage": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=1200&q=80",
-      "noindex": false
+      "noindex": false,
+      "slug": "vivo-v40-pro-5g-co-nen-mua"
     }
   }
 ]

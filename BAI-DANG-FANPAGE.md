@@ -145,7 +145,7 @@ Máy to nhất, mạnh nhất dòng 16. Ai quay chụp nhiều, làm video thì 
 📦 Còn 11 máy · nguyên seal · bảo hành 12 tháng
 
 Xem chi tiết và chọn màu:
-👉 https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=1
+👉 https://levuduy010307-star.github.io/pd12682-phone-store/sp-iphone-16-pro-max-256gb.html
 
 📞 079 634 6492 — nhắn page giữ máy trước khi hết
 #PD12682 #iPhone16ProMax #dienthoaichinhhang #phonestore
@@ -172,7 +172,7 @@ Tầm 14 triệu mà hiệu năng ngang flagship thì đây là cái tên đáng
 📦 Còn 15 máy · bảo hành 12 tháng
 
 Xem chi tiết:
-👉 https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=12
+👉 https://levuduy010307-star.github.io/pd12682-phone-store/sp-xiaomi-14t-pro-256gb.html
 
 📞 079 634 6492
 #PD12682 #Xiaomi14TPro #dienthoai #sale
@@ -199,7 +199,7 @@ Không cần chi nhiều vẫn có máy 256GB, camera nét, pin dùng cả ngày
 📦 Còn 19 máy · bảo hành 12 tháng · trả góp 0%
 
 Xem chi tiết:
-👉 https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=15
+👉 https://levuduy010307-star.github.io/pd12682-phone-store/sp-redmi-note-14-pro-plus-256gb.html
 
 📞 079 634 6492 — nhắn page để được tư vấn thêm
 #PD12682 #RedmiNote14Pro #dienthoaigiare #sinhvien
@@ -229,7 +229,7 @@ Bút S Pen, camera 200MP, zoom quang 5x. Chiếc Android mạnh nhất shop đan
 📦 Còn 8 máy · nguyên seal · bảo hành 12 tháng
 
 Xem chi tiết và chọn màu:
-👉 https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=6
+👉 https://levuduy010307-star.github.io/pd12682-phone-store/sp-galaxy-s25-ultra-256gb.html
 
 📞 079 634 6492 — nhắn page giữ máy trước khi hết
 #PD12682 #GalaxyS25Ultra #Samsung #dienthoaichinhhang
@@ -256,7 +256,7 @@ Chụp người là mạnh nhất: có ống tele riêng, xoá phông tự nhiê
 📦 Còn 8 máy · bảo hành 12 tháng · trả góp 0%
 
 Xem ảnh chụp thật từ máy và giá:
-👉 https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=17
+👉 https://levuduy010307-star.github.io/pd12682-phone-store/sp-reno13-pro-5g-256gb.html
 
 📞 079 634 6492 — nhắn page để xem ảnh gốc trước khi mua
 #PD12682 #Reno13Pro #OPPO #chupanh
@@ -283,7 +283,7 @@ Xem ảnh chụp thật từ máy và giá:
 📦 Còn 12 chiếc · chính hãng · bảo hành 12 tháng
 
 Xem chi tiết:
-👉 https://levuduy010307-star.github.io/pd12682-phone-store/product.html?id=100
+👉 https://levuduy010307-star.github.io/pd12682-phone-store/sp-tai-nghe-bluetooth-sony-wh-1000xm5.html
 
 📞 079 634 6492 — nhắn page nghe thử trước khi mua
 #PD12682 #Sony #WH1000XM5 #tainghechongon

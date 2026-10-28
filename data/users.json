@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Admin",
+    "email": "admin@pd12682.com",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "name": "Khách hàng mẫu",
+    "email": "user@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": "syZdWRMUSC8",
+    "name": "Quốc Duân",
+    "email": "quocduan123@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": "NxYT6JSN5Ak",
+    "name": "An Nhật",
+    "email": "annhat123@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": "yP6CYynpoBA",
+    "name": "qqqq",
+    "email": "qqq12@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": "dTTyQuCOyko",
+    "name": "kkkk",
+    "email": "kkk123@gmail.com",
+    "role": "user"
+  }
+]
